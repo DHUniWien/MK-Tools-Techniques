@@ -8,9 +8,10 @@ Some ways in which you already have version control
 
   - http://www.phdcomics.com/comics/archive.php?comicid=1323
   - http://www.phdcomics.com/comics/archive.php?comicid=1531
-  - Dropbox (https://www.dropbox.com/revisions/hollywood.sql?_subject_uid=12171275), Track Changes in Word
-  - Version control systems for programmers
+  - Dropbox and its file version history 
+  - "Track Changes" in Word
   
+Today we will talk about the sort of version control that is used by programmers.
   
 Getting started with Git
 --------
@@ -20,9 +21,10 @@ Mac/Linux: open a Terminal window. Windows: run 'Git Bash'.
 	$ git config --global user.name "Your Name"
 	$ git config --global user.email "your.email@students.unibe.ch"
 	$ git config --global push.default simple
-	$ git config --global core.editor 
+	$ git config --global core.editor [YOUR EDITOR]
 		TextMate: "mate -w"
-		SublimeText: "subl -n -w" / "<DRAG EXE> -w"
+		SublimeText Mac: "subl -n -w" 
+		SublimeText Windows: "<DRAG EXE> -w"
 		Notepad++: "<DRAG EXE> -multiInst -notabbar -nosession -noPlugin"
 		Gedit: "gedit -s"
 		
@@ -35,7 +37,7 @@ Git works in terms of *repositories*. To start using Git you make a directory (f
 
 So we'll set up our first repository. This means drawing on what we learned last time about our filesystem.
 
-    $ pwd # see what directory (folder) you are in
+	$ pwd # see what directory (folder) you are in
 	$ ls  # show what is in this directory (folder).
 
 A good strategy is to decide now where on your computer you will keep the projects you track with Git. I personally keep mine in a folder in my home directory called 'Projects', but you are free to choose.
@@ -47,7 +49,7 @@ This `Projects` folder is *not* a Git repository! Never put one repository insid
 
 Now it is time to create our first repository. Remember that a repository starts life as a plain old directory. Go ahead and make a directory inside `Projects`. Let's call it `learngit`. Then we are going to move into that directory with the `cd` command, and check we are in the right place with the `pwd` command.
 
-    $ mkdir learngit
+	$ mkdir learngit
 	$ cd learngit
 	$ pwd
 	
@@ -69,18 +71,37 @@ Now it's time to put some stuff in here so that Git can track it!
 Open your text editor and make a new text file. Write something (anything) in there, and then save the file into your repository. Call it `README.txt`. Then go back to the shell and run the command
 
 	$ git status
+	On branch master
+
+	Initial commit
+
+	Untracked files:
+	  (use "git add <file>..." to include in what will be committed)
+
+		README.txt
+
+	nothing added to commit but untracked files present (use "git add" to track)
+
 
 You will see a message that tells you a few things:
 
 - Something something branch. That will come in handy later.
 - Initial commit. You'll find out soon what a 'commit' is.
 - Something about untracked files, including this file you just made.
-- Another message that says "use 'git add' to track". 
+- Another message that reiterates "use 'git add' to track". 
 
 What that last bit is telling us is that we have to tell Git when we want it to start tracking something in the repository. We do this with the `git add` command. Then we can run `git status` again and see what has changed.
 
 	$ git add README.txt
 	$ git status
+	On branch master
+
+	Initial commit
+
+	Changes to be committed:
+	  (use "git rm --cached <file>..." to unstage)
+
+		new file:   README.txt
 
 You don't have to start a Git repository with an empty folder! If, after working with Git for a little while, you decide you want to use it to track some files you already have, you can also run `git init` in that directory and things will work just the same. All the files and folders that are already there will be listed as 'untracked' until you add them to be tracked.
 

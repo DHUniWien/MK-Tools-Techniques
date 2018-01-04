@@ -1,0 +1,3418 @@
+Person,Relative,Relationship
+<Anonyma 125>,<Eustathios 105>,mother
+<Maria 168>,<Ioannes 306>,wife
+<Maria 168>,<Nikephoros 175>,grandmother
+<Maria 168>,<Ioannes 2>,daughter
+<Maria 168>,<Alexios 103>,sister
+<Maria 168>,<Manuel 1>,sister
+<Maria 168>,<Anna 20111>,mother
+<Manuel 61>,<Nikephoros 115>,brother-in-law
+<Manuel 61>,<Ioannes 63>,son (eldest)
+<Manuel 61>,<Isaakios 1>,nephew
+<Manuel 61>,<Michael 136>,brother-in-law
+<Manuel 61>,<Alexios 1>,brother
+<Manuel 61>,<Anonyma 8106>,father
+<Manuel 61>,<Isaakios 61>,brother
+<Manuel 61>,<Ioannes 2>,uncle
+<Manuel 61>,<Anna 61>,son
+<Anonyma 214>,<Guy 4004>,wife
+<Nikephoros 160>,<Anonyma 207>,son
+<Nikephoros 160>,<Anonyma 205>,husband
+<Nikephoros 160>,<Anonyma 206>,husband
+<Nikephoros 160>,<Leon 177>,son
+<Anonymus 5011>,<Nikephoros 115>,father
+<William 17003>,<Robert 17001>,brother
+<Eudokia 1>,<Anonymi 2105>,mother
+<Eudokia 1>,<Konstantinos 10>,wife
+<Eudokia 1>,<Zoe 101>,mother
+<Eudokia 1>,<Leon 15005>,mother
+<Eudokia 1>,<Nikephoros 64>,mother
+<Eudokia 1>,<Anonymae 5000>,mother
+<Eudokia 1>,<Nikephoros 111>,cousin
+<Eudokia 1>,<Anna 101>,mother
+<Eudokia 1>,<Michael 61>,niece
+<Eudokia 1>,<Michael 7>,mother
+<Eudokia 1>,<Andronikos 62>,mother
+<Eudokia 1>,<Anonymus 7036>,daughter
+<Eudokia 1>,<Romanos 4>,wife
+<Eudokia 1>,<Konstantinos 120>,cousin
+<Eudokia 1>,<Konstantios 61>,mother
+<Eudokia 1>,<Michael 11>,niece
+<Eudokia 1>,<Theodora 101>,mother
+<Helena 116>,<Romanos 1>,daughter
+<Helena 116>,<Konstantinos 7>,wife
+<Ioannes 192>,<Maure 101>,father-in-law
+<Ioannes 192>,<Gnebotos 101>,son
+<Ioannes 192>,<Stephanos 118>,father
+<Ioannes 192>,<Anastasia 103>,husband
+<Anna 12103>,<Sophia 12101>,daughter
+<Anna 12103>,<Ioannes 12104>,wife
+<Ioannes 306>,<Maria 168>,husband
+<Ioannes 306>,<Andronikos 20146>,father
+<Ioannes 306>,<Manuel 1>,brother-in-law
+<Ioannes 306>,<Anna 20111>,father
+<Basileios 142>,<Blasios 105>,father
+<Basileios 142>,<Ioannikios 104>,son
+<Basileios 142>,<Barbara 102>,father
+<Basileios 142>,<Anna 107>,husband
+<Demetrios 12101>,<Maria 12105>,husband
+<Demetrios 12101>,<Ioannes 12103>,brother
+<Taftoc 4001>,<Baldwin 51>,father-in-law
+<Taftoc 4001>,<Anonyma 4005>,father
+<Taftoc 4001>,<Konstantinos 4002>,brother
+<Nesnastros 101>,<Kyriakos 105>,son
+<Nesnastros 101>,<Ioannilos 101>,son-in-law
+<Anonyma 12104>,<Anonymus 12122>,wife
+<Anonyma 12104>,<Anonyma 12104>,daughter
+<Anonyma 12104>,<Anonyma 12105>,mother
+<Anonymus 17028>,<Lothar 17001>,relative by marriage
+<Andronikos 112>,<Eirene 25002>,son
+<Andronikos 112>,<Manuel 1>,kin
+<Andronikos 112>,<Gregorios 105>,son
+<Manuel 101>,<Isaakios 1>,son
+<Anonymus 15067>,<Leon 202>,father
+<Fredelo 26101>,<Henry 4001>,father
+<Anonyma 209>,<Eudokia 110>,daughter
+<Anna 25002>,<Zoe 25001>,daughter
+<Anna 25002>,<Ioannes 2>,kin
+<Anna 25002>,<Boris 17001>,wife
+<Anna 25002>,<Georgios 25001>,daughter
+<Anonymi 6073>,<Eirene 65>,children
+<Anonymi 6073>,<Alexios 1>,nephew
+<Anonymi 6073>,<Isaakios 61>,children
+<Anonymi 6073>,<Anonymae 6002>,husband
+<Basileios 151>,<Konstas 101>,son
+<Basileios 151>,<Epiphanios 101>,father
+<Basileios 151>,<Konstantineba 101>,son
+<Basileios 151>,<Anonymus 359>,father
+<Basileios 151>,<Demetrios 142>,brother
+<Basileios 151>,<Kalanna 102>,husband
+<Basileios 151>,<Demetrios 123>,brother
+<Renaud 17001>,<Constance 4002>,husband
+<Renaud 17001>,<Bohemond 20102>,step-father
+<Anonymus 12186>,<Anonymus 12185>,son
+<Anonymus 12186>,<Anonyma 12125>,husband
+<Anonymus 12186>,<Anonymus 12187>,son-in-law
+<Anonymi 6074>,<Anonymae 6001>,husband
+<Anonyma 143>,<Stephanos 126>,wife
+<Konstantinos 10>,<Anonymi 2105>,father
+<Konstantinos 10>,<Anonyma 113>,husband
+<Konstantinos 10>,<Konstantinos 63>,son-in-law
+<Konstantinos 10>,<Zoe 101>,father
+<Konstantinos 10>,<Anonymus 7035>,father
+<Konstantinos 10>,<Ioannes 62>,brother
+<Konstantinos 10>,<Anna 101>,father
+<Konstantinos 10>,<Eudokia 1>,husband
+<Konstantinos 10>,<Konstantinos 62>,grandfather
+<Konstantinos 10>,<Maria 20115>,brother
+<Konstantinos 10>,<Michael 7>,father
+<Konstantinos 10>,<Isaakios 1>,kin
+<Konstantinos 10>,<Konstantios 61>,father
+<Konstantinos 10>,<Andronikos 62>,father
+<Konstantinos 10>,<Theodora 101>,father
+<Konstantinos 10>,<Eirene 20117>,brother-in-law
+<Ioannes 62>,<Maria 62>,father-in-law
+<Ioannes 62>,<Eirene 61>,grandfather
+<Ioannes 62>,<Michael 7>,uncle
+<Ioannes 62>,<Konstantinos 10>,brother
+<Ioannes 62>,<Anonymus 25018>,grandfather
+<Ioannes 62>,<Michael 121>,grandfather
+<Ioannes 62>,<Ioannes 65>,grandfather
+<Ioannes 62>,<Konstantinos 61>,father
+<Ioannes 62>,<Andronikos 61>,father
+<Ioannes 62>,<Anonymi 6049>,father
+<Ioannes 62>,<Konstantios 61>,uncle
+<Ioannes 62>,<Andronikos 62>,uncle
+<Ioannes 62>,<Nikephoros 101>,relative by marriage
+<Ioannes 62>,<Eirene 20117>,husband
+<Anonymi 6076>,<Ioannes 2>,kin
+<Anonyma 144>,<Dokeianos 101>,wife
+<Epiphanios 101>,<Basileios 151>,son
+<Anonymus 181>,<Anonyma 2108>,husband
+<Anonymus 181>,<Maria 64>,father
+<Michael 260>,<Alexios 3>,husband of sister of wife
+<Michael 260>,<Theodora 20101>,husband
+<Basileios 156>,<Romanos 107>,son
+<Anonymi 6049>,<Ioannes 62>,son
+<Robert 108>,<Tancred 61>,brother
+<Leon 6>,<Konstantinos 7>,father
+<Andronikos 12101>,<Anonyma 12148>,father
+<Andronikos 12101>,<Anonymus 12257>,father
+<Andronikos 12101>,<Anonymus 12256>,father-in-law (joint)
+<Andronikos 12101>,<Anonymus 12258>,father-in-law
+<Tughrul Beg 51>,<Ibrahim Yinal 101>,half-brother
+<Tughrul Beg 51>,<Anonymus 189>,nephew
+<Tughrul Beg 51>,<Kutulmush 101>,uncle
+<Tughrul Beg 51>,<Michael 116>,son
+<Tughrul Beg 51>,<Anonymus 5044>,brother
+<Tughrul Beg 51>,<Asan 101>,uncle
+<Basileios 186>,<Helena 115>,son
+<Basileios 186>,<Theodote 104>,husband
+<Basileios 186>,<Demetrios 148>,cousin (second)
+<Baldwin 102>,<Balian 101>,son
+<Baldwin 102>,<Anonyma 258>,son
+<Baldwin 102>,<Hugh 106>,brother
+<Baldwin 102>,<Balian 102>,brother
+<Anna 12101>,<Kale 12101>,step-sister
+<Anna 12101>,<Mitze 12101>,sister
+<Anna 12101>,<Eudokia 12101>,daughter
+<Kyriake 101>,<Ioannes 194>,daughter
+<Tzernes 102>,<Theodoros 146>,son
+<Anna 149>,<Kyriakos 119>,daughter
+<Anna 150>,<Basileios 197>,wife
+<Choudesilas 101>,<Kosmas 103>,grandfather
+<Anonymus 2572>,<Michael 61>,kin
+<Anonymus 778>,<Anonymus 777>,father
+<Anna 12102>,<Nikolaos 12103>,mother
+<Michael 147>,<Euphrosyne 101>,husband
+<Michael 147>,<Chotianos 101>,son
+<Eudokia 102>,<Kale 102>,sister
+<Vladislav 101>,<Aikaterine 101>,father
+<Vladislav 101>,<Aaron 101>,father
+<Belouses 17001>,<Ouresis 17001>,brother
+<Belouses 17001>,<Dese 17001>,brother
+<Anonyma 12126>,<Anonymus 12185>,wife
+<Voislav 101>,<Michael 101>,father
+<Voislav 101>,<Anonymus 276>,father
+<Eirene 12101>,<Maria 12105>,mother
+<Eirene 12101>,<Basileios 12103>,daughter
+<Henry 101>,<Thierry 4001>,brother
+<Anonymus 17002>,<Anonymus 17055>,son
+<Anonymus 17002>,<Raymond 17001>,brother
+<Georgios 125>,<Nikolaos 112>,father
+<Konstantinos 64>,<Michael 5>,uncle
+<Konstantinos 64>,<Michael 4>,brother
+<Konstantinos 64>,<Ioannes 68>,brother
+<Anonymus 276>,<Voislav 101>,son
+<Zakchaios 101>,<Basileios 145>,uncle
+<Zakchaios 101>,<Nikolaos 133>,father
+<Zakchaios 101>,<Anna 112>,husband
+<Zakchaios 101>,<Theodoros 141>,father
+<Anonymus 15020>,<Raymond 15001>,father
+<Anonymus 2414>,<Michael 61>,kin
+<Theodoros 173>,<Aaron 101>,son
+<Zoe 1>,<Romanos 3>,wife
+<Zoe 1>,<Theodora 1>,sister
+<Zoe 1>,<Helena 103>,daughter (second)
+<Zoe 1>,<Michael 5>,mother (adoptive)
+<Zoe 1>,<Basileios 2>,niece
+<Zoe 1>,<Konstantinos 8>,daughter
+<Zoe 1>,<Eudokia 101>,sister
+<Zoe 1>,<Konstantinos 9>,wife
+<Zoe 1>,<Michael 4>,wife
+<Zoe 1>,<Romanos 2>,granddaughter
+<Anonymae 107>,<Usama 101>,wife
+<Damianos 103>,<Konstantinos 63>,nephew
+<Ioannes 20113>,<Isaakios 2>,brother-in-law
+<Kissiane 101>,<Nikephoros 148>,wife
+<Constance 4001>,<Alice 4001>,daughter
+<Constance 4001>,<Ioannes 495>,mother
+<Constance 4001>,<Bohemond 17001>,mother
+<Constance 4001>,<Philippos 4001>,daughter
+<Constance 4001>,<Bohemond 61>,wife
+<Constance 4001>,<Cecilia 4001>,sister
+<Hetoum 20102>,<Theodoros 20258>,father
+<Maritza 102>,<Konstantinos 134>,wife
+<Yahya 101>,<Usama 101>,cousin
+<Maria 63>,<Raymond 17001>,daughter
+<Maria 63>,<Alexios 2>,mother
+<Maria 63>,<Philippa 17001>,sister
+<Maria 63>,<Manuel 1>,wife
+<Maria 63>,<Agnes 17002>,sister
+<Theodote 2101>,<Anonymus 2134>,wife
+<Theodote 2101>,<Anonyma 2118>,daughter
+<Theodote 2101>,<Anonymus 2135>,daughter (eldest)
+<Theodote 2101>,<Anonyma 2110>,mother
+<Theodote 2101>,<Anonyma 2111>,mother
+<Theodote 2101>,<Anonymus 2137>,sister
+<Theodote 2101>,<Michael 61>,mother
+<Dobrana 101>,<Ioannilos 102>,daughter
+<Atom 101>,<Senachereim 101>,son
+<Anonymus 669>,<Ioannes 469>,father
+<Joscelin 4001>,<Baldwin 52>,cousin
+<Joscelin 4001>,<Geoffrey 4004>,brother
+<Joscelin 4001>,<Waleran 4001>,kin
+<Joscelin 4001>,<Anonyma 238>,husband
+<Joscelin 4001>,<Anonyma 26113>,son
+<Joscelin 4001>,<Joscelin 4002>,father
+<Joscelin 4002>,<Anonyma 4011>,son
+<Joscelin 4002>,<Joscelin 4001>,son
+<Joscelin 4002>,<Anonymi 214>,father
+<Joscelin 4002>,<Isabella 101>,father
+<Joscelin 4002>,<Beatrice 4001>,husband (second)
+<Joscelin 4002>,<Joscelin 4003>,father
+<Joscelin 4002>,<Renaud 4005>,father-in-law
+<Joscelin 4002>,<Agnes 4001>,father
+<Ilghazi 4001>,<Timurtash  101>,father
+<Ilghazi 4001>,<Anonymus 848>,father
+<Ilghazi 4001>,<Sulayman 102>,father
+<Raymond 15001>,<Anonyma 15008>,husband
+<Raymond 15001>,<Anonymus 15020>,son
+<Anonymi 187>,<Ioannes 459>,brother
+<Odo 103>,<Tancred 61>,father
+<Andronikos 108>,<Eirene 61>,son
+<Andronikos 108>,<Eirene 64>,husband
+<Andronikos 108>,<Anonymus 25009>,father
+<Andronikos 108>,<Maria 170>,father
+<Andronikos 108>,<Alexios 1>,son
+<Andronikos 108>,<Ioannes 470>,father
+<Andronikos 108>,<Ioannes 2>,brother
+<Andronikos 108>,<Manuel 1>,uncle
+<Andronikos 108>,<Anna 155>,father
+<Helena 101>,<Konstantinos 62>,wife (proposed)
+<Helena 101>,<Robert 61>,daughter
+<Belos 17001>,<Anonymus 17033>,brother
+<Basileios 145>,<Nikolaos 134>,brother
+<Basileios 145>,<Zakchaios 101>,nephew
+<Eirene 12102>,<Theophylaktos 12101>,mother
+<Eirene 12102>,<Romanos 12102>,wife
+<Eirene 12102>,<Gregorios 12104>,daughter
+<Helena 103>,<Bagrat 101>,wife
+<Helena 103>,<Zoe 1>,mother
+<Helena 103>,<Eudokia 101>,mother
+<Helena 103>,<Konstantinos 8>,wife
+<Helena 103>,<Alypios 101>,daughter
+<Helena 103>,<Theodora 1>,mother
+<Thierry 4001>,<Henry 101>,brother
+<Thierry 4001>,<Anonyma 257>,husband
+<Thierry 4001>,<Fulk 4001>,son-in-law
+<Nikolaos 113>,<Kalonas 101>,brother
+<Nikolaos 113>,<Agape 101>,uncle
+<Nikolaos 113>,<Konstantinos 7>,kin
+<Anonymus 25015>,<Theodora 25002>,in-law
+<Alexios 20125>,<Nikephoros 116>,son
+<Alexios 109>,<Theodora 107>,son
+<Alexios 109>,<Manuel 1>,cousin
+<Alexios 109>,<Konstantinos 17001>,son
+<Muhammad 102>,<Usama 101>,brother
+<Anna 154>,<Ioannes 450>,wife
+<Anna 154>,<Ioannes 2>,niece
+<Helena 106>,<Maria 110>,daughter
+<Anonyma 12105>,<Anonyma 12106>,granddaughter
+<Anonyma 12105>,<Anonymus 12122>,daughter
+<Anonyma 12105>,<Anonymus 12123>,granddaughter
+<Anonyma 26112>,<Roger 4002>,mother
+<Anonyma 26112>,<Tancred 61>,sister
+<Baldwin 54>,<Sibylla 4001>,brother
+<Baldwin 54>,<Amalric 51>,son
+<Baldwin 54>,<Agnes 4001>,son
+<Anonyma 25002>,<Ioannes 25002>,wife
+<Anonyma 25002>,<Masud 17001>,daughter
+<Alexios 17008>,<Manuel 1>,nephew
+<Anonymae 25001>,<Ioannes 2>,daughter
+<Alexios 17005>,<Alexios 1>,grandson
+<Alexios 17005>,<Anna 62>,son
+<Alexios 17005>,<Andronikos 17007>,brother
+<Alexios 17005>,<Manuel 1>,cousin
+<Alexios 17005>,<Nikephoros 117>,son
+<Anonymus 188>,<Leon 61>,kin
+<Ioannes 17012>,<Manuel 1>,relative by marriage
+<Anonymus 189>,<Kutulmush 101>,father
+<Anonymus 189>,<Michael 116>,brother
+<Anonymus 189>,<Tughrul Beg 51>,uncle
+<Alexandros 17001>,<William 51>,kin (by blood)
+<Akindynos 103>,<Stanilas 101>,son
+<Anonymi 12110>,<Anonyma 12138>,children
+<Henry 55>,<Conrad 53>,father
+<Henry 55>,<Henry 54>,father
+<Henry 55>,<Anonymus 17024>,father
+<Agnes 4001>,<Sibylla 4001>,mother
+<Agnes 4001>,<Baldwin 54>,mother
+<Agnes 4001>,<Beatrice 4001>,daughter
+<Agnes 4001>,<Joscelin 4002>,daughter
+<Agnes 4001>,<Amalric 51>,wife
+<Agnes 4001>,<Renaud 4005>,wife
+<Anonymus 195>,<Nikephoros 62>,father
+<Chosrienes 11001>,<Anonymus 11001>,brother
+<Chosrienes 11001>,<Anonymus 11004>,father
+<Konstantinos 123>,<Nikephoros 178>,father
+<Leon 164>,<Georgios 211>,son
+<Konstantinos 125>,<Michael 274>,father
+<Michael 181>,<Georgios 167>,son
+<Anonymus 26166>,<Ridwan 4001>,son
+<Leon 165>,<Georgios 211>,brother
+<Leon 165>,<Eirene 146>,husband
+<Prousianos 101>,<Romanos 102>,brother-in-law
+<Prousianos 101>,<Anonyma 107>,brother
+<Prousianos 101>,<Aaron 101>,brother
+<Prousianos 101>,<Maria 102>,son
+<Agnes 17001>,<Henry 17002>,daughter
+<Agnes 17001>,<Stephanos 53>,wife
+<Nikolaos 146>,<Anonymus 352>,son
+<Nikolaos 146>,<Anonyma 145>,husband
+<Leon 168>,<Kalos 103>,son
+<Anonyma 2108>,<Anonymus 181>,wife
+<Anonyma 2108>,<Maria 64>,mother
+<Stephanos 4002>,<Robert 63>,nephew
+<Stephanos 4002>,<Odo 26101>,son
+<Anonyma 2131>,<Anonymus 2272>,wife
+<Konstantinos 130>,<Michael 121>,son
+<Maria 102>,<Prousianos 101>,mother
+<Agathe 12101>,<Helena 12101>,daughter
+<Agathe 12101>,<Theophano 12103>,mother
+<Anonyma 12128>,<Anonymus 12188>,wife
+<Anonyma 12128>,<Anonymi 12106>,mother
+<Anonyma 12128>,<Anonyma 12129>,mother
+<Anonymus 352>,<Ioannes 216>,father
+<Anonymus 352>,<Nikolaos 146>,father
+<Anonymus 352>,<Pankalos 101>,father
+<Anonymus 352>,<Anonyma 145>,father-in-law
+<David 108>,<Anonyma 158>,brother
+<Agape 101>,<Nikolaos 113>,niece
+<Agape 101>,<Konstantinos 7>,kin
+<Anonyma 2118>,<Theodote 2101>,mother
+<Ioannes 468>,<Maria 146>,son
+<Anonymi 14124>,<Theodosios 14102>,kin
+<Konstantinos 134>,<Maritza 102>,husband
+<Konstantinos 134>,<Chotianos 101>,son
+<Nur al-Din 4001>,<Anar 101>,son-in-law
+<Nur al-Din 4001>,<Aksungur 4001>,grandson
+<Nur al-Din 4001>,<Ismail 102>,father
+<Nur al-Din 4001>,<Zengi 4001>,son
+<Nur al-Din 4001>,<Anonyma 245>,father
+<Nur al-Din 4001>,<Anonyma 251>,husband
+<Anonyma 2125>,<Anonymus 2238>,wife
+<Anonyma 2125>,<Theodoros 101>,mother-in-law
+<Anonyma 2125>,<Anonyma 2126>,mother
+<Eirene 66>,<Conrad 53>,kin
+<Eirene 66>,<Anna 17001>,mother
+<Eirene 66>,<Manuel 1>,wife
+<Eirene 66>,<Berengar 101>,daughter
+<Eirene 66>,<Maria 17002>,mother
+<Eirene 66>,<Anonyma 254>,sister
+<Anonyma 206>,<Nikephoros 160>,wife (second)
+<Walter 4004>,<Eustace 4003>,son
+<Walter 4004>,<Eustace 4004>,brother (twin)
+<Walter 4004>,<Emelota 4001>,son
+<Walter 4004>,<Hugh 4009>,step-son
+<Basileios 150>,<Nikolaos 142>,brother
+<Maria 169>,<Manuel 119>,wife
+<Maria 169>,<Ioannes 63>,mother
+<Maria 169>,<Isaakios 1>,mother
+<Anonyma 5003>,<Anna 61>,mother
+<Basileios 160>,<Paulos 112>,son
+<Nikolaos 173>,<Romanos 107>,brother
+<Poulcheria 101>,<Anonyma 6006>,mother
+<Poulcheria 101>,<Romanos 3>,sister
+<Poulcheria 101>,<Basileios 103>,wife
+<Anonyma 5004>,<Ioannes 63>,sister
+<Anonyma 5004>,<Theodoros 101>,mother
+<Anonyma 5005>,<Maria 62>,mother
+<Theodora 1>,<Romanos 3>,kin
+<Theodora 1>,<Zoe 1>,sister
+<Theodora 1>,<Helena 103>,daughter
+<Theodora 1>,<Eudokia 101>,sister
+<Theodora 1>,<Basileios 2>,niece
+<Theodora 1>,<Konstantinos 8>,daughter
+<Theodora 1>,<Konstantinos 9>,sister-in-law
+<Anonyma 5006>,<Alexios 1>,wife (first)
+<Anonyma 5006>,<Anonymus 5016>,daughter
+<Alexios 25001>,<Ioannes 392>,brother
+<Alexios 25001>,<Ioannes 2>,grandson
+<Alexios 25001>,<Isaakios 103>,son
+<Anonyma 254>,<Berengar 101>,daughter
+<Anonyma 254>,<Eirene 66>,sister
+<Anonyma 7000>,<Konstantinos 63>,wife
+<Melikshah 101>,<Anonyma 243>,husband
+<Melikshah 101>,<Masud 17001>,half-brother
+<Anonyma 7004>,<Konstantinos 9>,wife
+<Basileios 61>,<Georgios 61>,cousin
+<Alexios 25003>,<Eirene 20115>,son
+<Alexios 25003>,<Ioannes 17006>,brother
+<Alexios 25003>,<Alexios 1>,great grandson
+<Alexios 25003>,<Andronikos 109>,son
+<Alexios 25003>,<Ioannes 2>,grandson
+<Alexios 25003>,<Manuel 1>,nephew
+<Anonyma 204>,<Ioannes 384>,mother
+<Anonyma 204>,<Maria 164>,mother
+<Euphrosyne 101>,<Michael 147>,wife
+<Geoffrey 4004>,<Joscelin 4001>,brother
+<Anonymi 7005>,<Ioannes 68>,cousin (first)
+<Basileios 173>,<Nikephoros 133>,grandson
+<Anonymi 5016>,<Anonyma 105>,son
+<Anna 20112>,<Theodoros 1>,wife
+<Anna 20112>,<Alexios 3>,daughter
+<Theodora 25002>,<Anonymus 25015>,in-law
+<Theodora 25002>,<Alexios 20111>,ancestor (grandfather)
+<Theodora 25002>,<Manuel 25001>,wife
+<Theodora 25002>,<Ioannes 17011>,mother-in-law
+<Theodora 25002>,<Ioannes 2>,daughter
+<Theodora 25002>,<Manuel 1>,sister
+<Michael 120>,<Michael 105>,grandson
+<Basileios 153>,<Demetrios 123>,son
+<Isaakios 105>,<Konstantinos 131>,son
+<Eirene 25002>,<Ioannes 2>,kin
+<Eirene 25002>,<Andronikos 112>,mother
+<Eirene 25002>,<Gregorios 105>,wife
+<Bebdene 101>,<Nikephoros 3>,wife
+<Romanos 110>,<Agathe 104>,husband
+<Romanos 110>,<Romanos 3>,grandfather
+<Romanos 110>,<Konstantinos 7>,brother-in-law
+<Belkonas 101>,<Sergios 102>,son
+<Apasios 11001>,<Gregorios 61>,brother
+<Apasios 11001>,<Anonyma 11001>,son
+<Zoe 101>,<Adrianos 102>,wife
+<Zoe 101>,<Konstantinos 10>,daughter
+<Zoe 101>,<Nikephoros 64>,half-sister
+<Zoe 101>,<Konstantios 61>,sister
+<Zoe 101>,<Ioannes 2>,aunt
+<Zoe 101>,<Eudokia 1>,daughter
+<Manuel 20121>,<Andronikos 1>,son
+<Konstantinos 131>,<Isaakios 61>,son
+<Konstantinos 131>,<Isaakios 105>,father
+<Eustathios 105>,<Eirene 103>,brother
+<Eustathios 105>,<Eirene 102>,father
+<Eustathios 105>,<Anonymus 294>,son
+<Eustathios 105>,<Anonymi 139>,brother
+<Eustathios 105>,<Anna 102>,husband
+<Eustathios 105>,<Anonyma 125>,son
+<Eustathios 105>,<Michael 141>,father-in-law
+<Eustathios 105>,<Romanos 106>,father
+<Eustathios 105>,<Maria 106>,father
+<Eustathios 105>,<Gregorios 111>,father-in-law
+<Anonyma 12129>,<Anonyma 12128>,daughter
+<Maria 170>,<Andronikos 108>,daughter
+<Anonymus 161>,<Amer 102>,son
+<Anonymus 161>,<Anonyma 114>,son
+<Zoe 103>,<Kale 102>,mother
+<Zoe 104>,<Demetrios 121>,wife
+<Konstantinos 214>,<Xenia 101>,father
+<Konstantinos 214>,<Plyto 101>,father
+<Konstantinos 214>,<Michael 234>,father
+<Konstantinos 214>,<Eirene 148>,husband
+<Konstantinos 214>,<Kyriakos 122>,father
+<Eustathios 108>,<Lazaros 102>,son
+<Anonymi 6008>,<Michael 5>,uncle
+<Anonymi 6008>,<Michael 4>,brother
+<Anonymi 6008>,<Ioannes 68>,brother
+<Anonyma 12122>,<Anonymus 12180>,wife (second)
+<Eustathios 109>,<Georgios 151>,father
+<Bela 53>,<Geza 52>,son
+<Bela 53>,<Stephanos 53>,brother (younger)
+<Bela 53>,<Manuel 1>,son-in-law (proposed)
+<Bela 53>,<Agnes 17002>,husband
+<Theodora 5001>,<Maria 62>,daughter (youngest)
+<Theodora 5001>,<Eirene 61>,sister
+<Theodora 5001>,<Ioannes 2>,aunt
+<Theodora 5001>,<Andronikos 61>,daughter (youngest)
+<Melech 101>,<Ibrahim Yinal 101>,son
+<Mabel 4001>,<Hugh 4008>,wife
+<Mabel 4001>,<Hugh 4009>,mother
+<Aikaterine 101>,<Maria 101>,mother
+<Aikaterine 101>,<Samuel 103>,daughter (eldest)
+<Aikaterine 101>,<Aaron 101>,sister
+<Aikaterine 101>,<Isaakios 1>,wife
+<Aikaterine 101>,<Vladislav 101>,daughter
+<Zoulana 101>,<Kosmas 103>,wife
+<Eudokia 110>,<Anonyma 209>,mother
+<Eudokia 110>,<Nikephoros 168>,sister
+<Theodoros 1>,<Anna 20112>,husband
+<Theoktistos 107>,<Athanasios 105>,spiritual son
+<Theoktistos 107>,<Nikephoros 167>,spiritual brother
+<Theoktistos 107>,<Theodoros 222>,spiritual son
+<Anonymus 1012>,<Zengi 4001>,son
+<Leon 167>,<Nikephoros 148>,son-in-law
+<Gumushtegin 101>,<Sulayman 5000>,nephew
+<Anonymus 12225>,<Anonyma 12138>,husband (second)
+<Anonymus 12225>,<Anonyma 12139>,step-father
+<Maria 62>,<Anna 63>,mother
+<Maria 62>,<Anna 62>,grandmother
+<Maria 62>,<Eirene 61>,mother
+<Maria 62>,<Andronikos 61>,wife
+<Maria 62>,<Ioannes 62>,daughter-in-law
+<Maria 62>,<Ioannes 2>,grandmother
+<Maria 62>,<Anna 61>,relative by marriage
+<Maria 62>,<Ioannes 65>,mother
+<Maria 62>,<Anonyma 5005>,daughter
+<Maria 62>,<Georgios 61>,mother-in-law
+<Maria 62>,<Traianos 101>,daughter
+<Maria 62>,<Michael 121>,mother
+<Maria 62>,<Theodora 5001>,mother
+<Eudokia 20108>,<Ioannes 20463>,mother
+<Eudokia 20108>,<Andronikos 17010>,mother
+<Eudokia 20108>,<Ioannes 2>,daughter
+<Louis 103>,<Louis 101>,father
+<Stephanos 121>,<Mera 101>,husband
+<Stephanos 121>,<Ioannes 207>,father
+<Stephanos 121>,<Demetrios 121>,brother
+<Maria 64>,<Anonymus 181>,daughter
+<Maria 64>,<Anonyma 2108>,daughter
+<Maria 64>,<Konstantinos 9>,lover
+<Maria 64>,<Romanos 104>,sister
+<Maria 64>,<Anonyma 6006>,niece
+<Maria 101>,<Aikaterine 101>,daughter
+<Maria 101>,<Isaakios 1>,daughter
+<Anonymus 777>,<Ioannes 459>,kin
+<Anonymus 777>,<Anonymus 778>,son
+<Anonyma 213>,<Traulos 101>,wife
+<Asan 101>,<Anonymus 5044>,son
+<Asan 101>,<Tughrul Beg 51>,nephew
+<Andronikos 62>,<Konstantinos 10>,son
+<Andronikos 62>,<Andronikos 61>,cousin
+<Andronikos 62>,<Michael 7>,brother
+<Andronikos 62>,<Konstantios 61>,brother
+<Andronikos 62>,<Eudokia 1>,son
+<Andronikos 62>,<Ioannes 62>,nephew
+<Andronikos 62>,<Romanos 4>,step-son
+<Frederick 51>,<Conrad 53>,nephew
+<Frederick 51>,<Anonymus 17024>,son
+<Anonyma 15014>,<Traulos 101>,wife (second)
+<Anonyma 15014>,<Anonymus 695>,daughter
+<Roger 101>,<Roger 17001>,son
+<Traianos 101>,<Maria 62>,father
+<Traianos 101>,<Eirene 61>,grandfather
+<Traianos 101>,<Samuel 103>,son
+<Katae 17001>,<Alexios 103>,wife
+<Anonyma 26113>,<Joscelin 4001>,mother
+<Anonyma 26113>,<Baldwin 52>,paternal aunt
+<Michael 121>,<Anna 63>,brother
+<Michael 121>,<Maria 62>,son
+<Michael 121>,<Ioannes 312>,brother-in-law
+<Michael 121>,<Eirene 61>,brother
+<Michael 121>,<Ioannes 65>,brother
+<Michael 121>,<Eirene 20117>,grandson
+<Michael 121>,<Konstantinos 130>,father
+<Michael 121>,<Ioannes 62>,grandson
+<Michael 121>,<Ioannes 2>,uncle
+<Michael 121>,<Anna 62>,uncle (maternal)
+<Michael 121>,<Andronikos 61>,son
+<Helena 108>,<Ioannilos 102>,daughter
+<Samuel 106>,<Anna 125>,husband
+<Samuel 106>,<Georgios 165>,son-in-law
+<Stephanos 157>,<Sabas 109>,father
+<Stephanos 157>,<Alexios 3>,father of son-in-law
+<Helena 110>,<Ioannes 218>,mother-in-law
+<Anonymi 26103>,<Anonyma 4006>,sons
+<Helena 115>,<Theodote 103>,cousin
+<Helena 115>,<Nikolaos 183>,daughter
+<Helena 115>,<Basileios 186>,mother
+<Marianos 15001>,<Nikolaos 15002>,son
+<Marianos 15001>,<Nikephoros 117>,brother-in-law
+<Marianos 15001>,<Anonyma 241>,husband
+<Nikephoros 8106>,<Nikephoros 3>,kin
+<Anonymae 102>,<Ioannes 68>,kin
+<Anonymae 103>,<Nikoulitzas 101>,daughter
+<Alexios 1>,<Manuel 106>,father
+<Alexios 1>,<Ioannes 63>,son
+<Alexios 1>,<Isaakios 1>,nephew
+<Alexios 1>,<Eudokia 111>,father
+<Alexios 1>,<Anna 61>,son
+<Alexios 1>,<Manuel 61>,brother
+<Alexios 1>,<Theodora 106>,brother
+<Alexios 1>,<Ioannes 65>,brother-in-law
+<Alexios 1>,<Alexios 17005>,grandfather
+<Alexios 1>,<Maria 105>,brother
+<Alexios 1>,<Theodora 107>,father
+<Alexios 1>,<Godfrey 51>,father (adoptive)
+<Alexios 1>,<Andronikos 108>,father
+<Alexios 1>,<Adrianos 102>,brother
+<Alexios 1>,<Nikephoros 115>,brother-in-law
+<Alexios 1>,<Manuel 119>,grandson
+<Alexios 1>,<Anonyma 212>,uncle
+<Alexios 1>,<Nikephoros 116>,brother
+<Alexios 1>,<Alexios 3>,great grandfather
+<Alexios 1>,<Michael 274>,father-in-law
+<Alexios 1>,<Anonymi 6073>,uncle
+<Alexios 1>,<Anonyma 5006>,husband
+<Alexios 1>,<Maria 61>,son (adopted)
+<Alexios 1>,<Alexios 105>,uncle
+<Alexios 1>,<Eirene 65>,brother-in-law
+<Alexios 1>,<Nikephoros 117>,father-in-law
+<Alexios 1>,<Isaakios 102>,father
+<Alexios 1>,<Anonymae 6001>,uncle
+<Alexios 1>,<Ioannes 2>,father
+<Alexios 1>,<Anna 62>,father
+<Alexios 1>,<Manuel 1>,grandfather
+<Alexios 1>,<Maria 146>,father
+<Alexios 1>,<Konstantinos 62>,father-in-law
+<Alexios 1>,<Georgios 61>,husband of sister-in-law
+<Alexios 1>,<Anonymus 26149>,kin
+<Alexios 1>,<Eudokia 108>,brother
+<Alexios 1>,<Michael 122>,uncle (by marriage)
+<Alexios 1>,<Konstantinos 15019>,kin
+<Alexios 1>,<Alexios 25002>,grandfather
+<Alexios 1>,<Isaakios 2>,great grandfather
+<Alexios 1>,<Anonymus 61>,father of daughter-in-law
+<Alexios 1>,<Anonymi 172>,father
+<Alexios 1>,<Isaakios 61>,brother
+<Alexios 1>,<Theodoros 101>,cousin
+<Alexios 1>,<Ioannes 312>,uncle
+<Alexios 1>,<Eirene 61>,husband
+<Alexios 1>,<Michael 20325>,uncle
+<Alexios 1>,<Michael 136>,brother-in-law
+<Alexios 1>,<Ioannes 128>,uncle
+<Alexios 1>,<Zoe 110>,father
+<Alexios 1>,<Ioannes 117>,uncle
+<Yaghi-Basan 17001>,<Kilic Arslan 52>,relative by marriage
+<Anonyma 15009>,<Euboulos 15001>,wife
+<Anonyma 15009>,<Robert 61>,daughter
+<Konstantinos 9101>,<Michael 5>,kin
+<Konstantinos 9101>,<Konstantinos 64>,kin
+<Konstantinos 9101>,<Ioannes 68>,kin
+<Demetrios 144>,<Nikolaos 136>,uncle
+<William 10101>,<Tancred 10101>,son
+<William 10101>,<Drogo 10101>,brother
+<Leon 25002>,<Georgios 25002>,brother
+<Radomir 102>,<Eirene 61>,kin
+<Zoe 110>,<Alexios 1>,daughter
+<Zoe 110>,<Eirene 61>,daughter
+<Dokeianos 101>,<Anonyma 144>,husband
+<Dokeianos 101>,<Pachypodes 101>,son
+<Christophoros 2101>,<Michael 61>,kin
+<Eirene 146>,<Leon 165>,wife
+<Anonymus 4039>,<Baldwin 52>,nephew
+<Draga 101>,<Petros 118>,wife
+<Anonyma 258>,<Manasses 102>,wife
+<Anonyma 258>,<Balian 101>,wife
+<Anonyma 258>,<Baldwin 102>,mother
+<Anonyma 258>,<Hugh 106>,mother
+<Anonyma 258>,<Balian 102>,mother
+<Basileios 2>,<Zoe 1>,uncle
+<Basileios 2>,<Eudokia 101>,uncle
+<Basileios 2>,<Romanos 2>,son
+<Basileios 2>,<Konstantinos 8>,brother
+<Basileios 2>,<Theodora 1>,uncle
+<Basileios 2>,<Konstantinos 7>,grandson
+<Dobrotas 105>,<Chryse 103>,husband
+<Dobrotas 105>,<Nikolaos 140>,son
+<Ioannes 18>,<Anonymus 2586>,uncle
+<Ioannes 18>,<Anonyma 2101>,son
+<Ioannes 18>,<Anonymus 2102>,son
+<Ioannes 18>,<Bardas 101>,uncle
+<Tzachas 61>,<Galabatzes 15001>,uncle
+<Tzachas 61>,<Kilic Arslan 51>,father-in-law
+<Tzachas 61>,<Anonyma 4003>,father
+<Anonymus 14151>,<Epiphanios 14102>,uncle
+<Alach 101>,<Pinzarach 101>,son
+<Ali 102>,<Usama 101>,brother
+<Chryse 101>,<Theodoros 143>,wife
+<Berengar 101>,<Eirene 66>,father
+<Berengar 101>,<Anonyma 254>,father
+<Muhammad 17001>,<Masud 17001>,kin
+<Theodosios 109>,<Konstantinos 9>,father
+<Dese 17001>,<Belouses 17001>,brother
+<Dese 17001>,<Ouresis 17001>,brother
+<Eirene 133>,<Lazaros 104>,mother
+<Eirene 133>,<Anonymi 157>,mother
+<Robert 102>,<Robert 61>,brother
+<Kale 123>,<Nikephoros 133>,wife
+<Bertrand 4001>,<Raymond 61>,son
+<Bertrand 4001>,<William Jordan 4001>,kin (in fact cousin)
+<Bertrand 4001>,<Pons 4002>,father
+<Georgios 134>,<Maria 110>,father
+<Georgios 134>,<Konstantinos 139>,grandfather
+<Georgios 134>,<Basileios 130>,father
+<Georgios 134>,<Merotas 101>,father
+<Hetoum 20101>,<Theodoros 20258>,father
+<Hetoum 20101>,<Oshin 20101>,son
+<Anonymi 138>,<Anonymus 288>,brother
+<Anonymi 138>,<Anonymus 274>,children
+<Nikolaos 126>,<Stanilas 101>,son
+<Nikolaos 127>,<Ioannes 194>,father-in-law
+<Ioannes 495>,<Bohemond 61>,son
+<Ioannes 495>,<Constance 4001>,son
+<Ioannes 495>,<Bohemond 17001>,brother (elder)
+<Maria 153>,<Georgios 204>,daughter
+<Eirene 65>,<Anonymus 5004>,daughter
+<Eirene 65>,<Adrianos 25001>,mother
+<Eirene 65>,<Anonymi 6073>,mother
+<Eirene 65>,<Maria 61>,cousin
+<Eirene 65>,<Alexios 1>,sister-in-law
+<Eirene 65>,<Anonymae 6001>,mother
+<Eirene 65>,<Isaakios 61>,wife
+<Eirene 65>,<Anonyma 15020>,cousin
+<Eirene 65>,<Anna 61>,daughter-in-law
+<Nikolaos 128>,<Ioannilos 102>,father
+<Bohemond 17001>,<Ioannes 495>,brother (younger)
+<Bohemond 17001>,<Baldwin 52>,son(-in-law)
+<Bohemond 17001>,<Bohemond 61>,son
+<Bohemond 17001>,<Alice 4001>,husband
+<Bohemond 17001>,<Constance 4002>,father
+<Bohemond 17001>,<William 4016>,nephew
+<Bohemond 17001>,<Constance 4001>,son
+<Nikolaos 129>,<Ioannilos 102>,son
+<Michael 141>,<Eustathios 105>,son-in-law
+<Maria 156>,<Nikephoros 148>,daughter
+<Nikolaos 131>,<Ioannes 196>,father
+<Leon 177>,<Anonymi 177>,father
+<Leon 177>,<Anonymus 15046>,son
+<Leon 177>,<Nikephoros 160>,father
+<Eirene 132>,<Alexios 4>,sister
+<Maria 158>,<Niketas 153>,wife
+<Alexios 2>,<Agnes 101>,husband
+<Alexios 2>,<Maria 63>,son
+<Alexios 2>,<Manuel 1>,son
+<Petros 102>,<Radomir 101>,son
+<Petros 102>,<Anonyma 115>,son
+<Anonyma 238>,<Joscelin 4001>,wife
+<Nikolaos 134>,<Basileios 145>,brother
+<Philippos 102>,<Alexios 4>,brother-in-law
+<Renaud 4006>,<Agnes 4002>,son
+<Renaud 4006>,<Gerard 4004>,son
+<Demetrios 148>,<Theodote 103>,son
+<Demetrios 148>,<Theodote 104>,father
+<Demetrios 148>,<Basileios 186>,cousin (second)
+<Murhaf  101>,<Usama 101>,son
+<Eleanor 101>,<Louis 101>,wife (divorced)
+<Eleanor 101>,<William 4021>,daughter
+<Eleanor 101>,<Raymond 17001>,niece
+<Eleanor 101>,<Henry 4002>,wife
+<Elpidios 2101>,<Euphemia 103>,husband (betrothed)
+<Elpidios 2101>,<Ioannes 2104>,son
+<Elpidios 2101>,<Michael 61>,son-in-law
+<Nikolaos 139>,<Theodoros 143>,son
+<Michael 225>,<Maria 152>,son
+<Anonyma 2110>,<Theodote 2101>,daughter
+<Anonyma 2110>,<Michael 61>,sister
+<Anonyma 2110>,<Anonyma 2113>,mother
+<Leon 103>,<Kale 102>,cousin
+<Bohemond 20102>,<Constance 4002>,son
+<Bohemond 20102>,<Renaud 17001>,step-son
+<Sultan-Shah 101>,<Ridwan 4001>,son
+<Anonyma 12127>,<Anonymus 12188>,wife
+<Anonyma 12127>,<Anonymus 12189>,mother
+<Melisende 4002>,<Manasses 102>,kin (by blood)
+<Melisende 4002>,<Baldwin 53>,mother
+<Melisende 4002>,<Baldwin 52>,daughter
+<Melisende 4002>,<Hodierna 4001>,sister
+<Melisende 4002>,<Alice 4001>,sister
+<Melisende 4002>,<Constance 4002>,aunt (maternal)
+<Melisende 4002>,<Hugh 4009>,kin
+<Melisende 4002>,<Fulk 4001>,wife
+<Melisende 4002>,<Iveta 4001>,sister (elder)
+<Konstantinos 20476>,<Michael 105>,son
+<Nikolaos 140>,<Dobrotas 105>,father
+<Nikolaos 140>,<Chryse 102>,husband
+<Nikolaos 140>,<Petros 119>,father
+<Leon 169>,<Kyriakos 119>,son
+<Morphia 4001>,<Gabriel 4001>,daughter
+<Morphia 4001>,<Baldwin 52>,wife
+<Morphia 4001>,<Melisende 4002>,mother
+<Morphia 4001>,<Alice 4001>,mother
+<Morphia 4001>,<Hodierna 4001>,mother
+<Morphia 4001>,<Iveta 4001>,mother
+<Anonyma 2103>,<Anonymus 2105>,wife
+<Anonyma 2103>,<Konstantinos 120>,mother
+<Geza 52>,<Stephanos 54>,brother
+<Geza 52>,<Boris 17001>,brother
+<Geza 52>,<Stephanos 53>,father
+<Geza 52>,<Laszlo 52>,brother
+<Geza 52>,<Bela 53>,father
+<Sibylla 4001>,<Baldwin 54>,sister
+<Sibylla 4001>,<Amalric 51>,daughter
+<Sibylla 4001>,<Agnes 4001>,daughter
+<Anonymae 104>,<Michael 202>,sister
+<Hugh 4003>,<Raymond 61>,brother
+<Bardas 114>,<Michael 105>,descendant (grandson)
+<Maria 166>,<Konstantinos 251>,wife
+<Romanos 101>,<Romanos 3>,brother-in-law
+<Romanos 101>,<Basileios 103>,father
+<Eirene 131>,<Euphrosyne 103>,niece
+<Eirene 131>,<Anastaso 101>,sister
+<Eirene 131>,<Michael 202>,wife (second)
+<Theodora 17002>,<Anonymi 17012>,mother
+<Theodora 17002>,<Andronikos 1>,lover
+<Theodora 17002>,<Baldwin 53>,wife
+<Theodora 17002>,<Isaakios 103>,daughter
+<Theodora 17002>,<Manuel 1>,niece
+<Romanos 102>,<Prousianos 101>,brother-in-law
+<Waleran 4001>,<Joscelin 4001>,kin
+<Barkiyaruq 101>,<Malik-Shah 51>,son
+<Romanos 103>,<Adrianos 101>,uncle
+<Romanos 103>,<Konstantinos 63>,brother
+<Anonyma 101>,<Romanos 4>,wife (first)
+<Anonyma 101>,<Samuel 101>,sister
+<Ioannes 242>,<Michael 188>,kin
+<Ioannes 242>,<Kale 122>,husband
+<Ioannes 242>,<Nikolaos 164>,father
+<Maria 12104>,<Georgios 12101>,daughter
+<Maria 12104>,<Ioannes 12103>,wife
+<Asana 101>,<Georgios 151>,wife
+<Anonymus 2283>,<Konstantinos 120>,son
+<Nikolaos 12101>,<Maria 12103>,cousin
+<Nikolaos 12101>,<Michael 12103>,father
+<Eirenikos 101>,<Michael 202>,father
+<Anonymus 15086>,<Bohemond 61>,nephew
+<Samuel 103>,<Radomir 101>,father
+<Samuel 103>,<Aikaterine 101>,father
+<Samuel 103>,<Traianos 101>,father
+<Konstantinos 153>,<Krino 101>,husband
+<Konstantinos 153>,<Pachypodes 101>,son
+<Gregorios 62>,<Theodoros 6003>,son
+<Anonymus 2288>,<Michael 61>,kin
+<Henry 103>,<Hugh 4001>,father
+<Niketas 153>,<Basileios 197>,son
+<Niketas 153>,<Maria 158>,husband
+<Niketas 153>,<Kalos 104>,father
+<Anonymi 214>,<Beatrice 4001>,children
+<Anonymi 214>,<Joscelin 4002>,kin
+<Philippos 4001>,<Bertrada 4001>,husband (de facto)
+<Philippos 4001>,<Bohemond 61>,father-in-law
+<Philippos 4001>,<Constance 4001>,father
+<Philippos 4001>,<Hugh 4001>,brother
+<Philippos 4001>,<Cecilia 4001>,father
+<Ioannes 2>,<Anna 63>,nephew
+<Ioannes 2>,<Ioannes 63>,grandson
+<Ioannes 2>,<Eudokia 111>,brother
+<Ioannes 2>,<Eirene 62>,husband
+<Ioannes 2>,<Maria 168>,father
+<Ioannes 2>,<Alexios 103>,father
+<Ioannes 2>,<Theodora 106>,nephew
+<Ioannes 2>,<Alexios 3>,grandfather
+<Ioannes 2>,<Alexios 1>,son
+<Ioannes 2>,<Maria 105>,nephew
+<Ioannes 2>,<Anonymi 4006>,father
+<Ioannes 2>,<Andronikos 108>,brother
+<Ioannes 2>,<Adrianos 102>,nephew
+<Ioannes 2>,<Zoe 101>,nephew
+<Ioannes 2>,<Anonyma 25005>,grandfather
+<Ioannes 2>,<Andronikos 109>,father
+<Ioannes 2>,<Ioannes 65>,nephew
+<Ioannes 2>,<Anna 25002>,kin
+<Ioannes 2>,<Ioannes 25002>,uncle
+<Ioannes 2>,<Theodora 5001>,nephew
+<Ioannes 2>,<Anonymae 25001>,father
+<Ioannes 2>,<Ioannes 450>,uncle (by marriage)
+<Ioannes 2>,<Anna 25001>,father
+<Ioannes 2>,<Ioannes 17007>,uncle
+<Ioannes 2>,<Alexios 25001>,grandfather
+<Ioannes 2>,<Maria 62>,grandson
+<Ioannes 2>,<Isaakios 102>,brother
+<Ioannes 2>,<Anonymi 6076>,kin
+<Ioannes 2>,<Nikephoros 117>,brother-in-law
+<Ioannes 2>,<Anna 62>,brother
+<Ioannes 2>,<Michael 121>,nephew
+<Ioannes 2>,<Anna 61>,grandson
+<Ioannes 2>,<Anna 154>,uncle (by marriage)
+<Ioannes 2>,<Manuel 1>,father
+<Ioannes 2>,<Isaakios 103>,father
+<Ioannes 2>,<Eudokia 108>,nephew
+<Ioannes 2>,<Manuel 61>,nephew
+<Ioannes 2>,<Alexios 25002>,uncle
+<Ioannes 2>,<Eirene 61>,son
+<Ioannes 2>,<Nikephoros 178>,brother-in-law
+<Ioannes 2>,<Isaakios 61>,nephew
+<Ioannes 2>,<Eirene 25002>,kin
+<Ioannes 2>,<Alexios 25003>,grandfather
+<Ioannes 2>,<Theodora 25002>,father
+<Ioannes 2>,<Eudokia 112>,father-in-law
+<Ioannes 2>,<Eudokia 20108>,father
+<Pons 4002>,<Bertrand 4001>,son
+<Pons 4002>,<Raymond 4004>,father
+<Pons 4002>,<Cecilia 4001>,husband
+<Anonymus 2294>,<Isaakios 1>,nephew
+<Eirene 108>,<Ioannes 218>,wife
+<Konstantinos 5010>,<Michael 7>,kin
+<Euthymios 25001>,<Georgios 25002>,cousin
+<Maria 103>,<Bagrat 101>,mother
+<Maria 103>,<Georgios 105>,wife
+<Maria 103>,<Senachereim 101>,daughter
+<Dragna 101>,<Ioannes 194>,daughter
+<Nixas 101>,<Nikolaos 142>,father
+<Anonyma 246>,<Louis 101>,mother
+<Maria 104>,<Michael 5>,mother
+<Maria 104>,<Ioannes 68>,sister
+<Maria 104>,<Michael 4>,sister
+<Anonymi 131>,<Theophylaktos 105>,brother
+<Ioannes 65>,<Anna 63>,brother
+<Ioannes 65>,<Maria 62>,son
+<Ioannes 65>,<Anna 62>,uncle (maternal)
+<Ioannes 65>,<Eirene 61>,brother
+<Ioannes 65>,<Ioannes 2>,uncle
+<Ioannes 65>,<Eirene 20117>,grandson
+<Ioannes 65>,<Alexios 1>,brother-in-law
+<Ioannes 65>,<Ioannes 62>,grandson
+<Ioannes 65>,<Michael 121>,brother
+<Ioannes 65>,<Andronikos 61>,son
+<Gabrilas 101>,<Romanos 107>,father
+<Zoe 25001>,<Anna 25002>,mother
+<Zoe 25001>,<Anonymus 25018>,daughter
+<Zoe 25001>,<Anna 25003>,daughter
+<Zoe 25001>,<Georgios 25001>,wife
+<Gabriloba 101>,<Romanos 107>,mother
+<Anonymus 25018>,<Zoe 25001>,father
+<Anonymus 25018>,<Ioannes 62>,grandson
+<Gagik 101>,<Ashot 101>,son
+<Gagik 101>,<Anonyma 158>,husband
+<Gagik 101>,<Ioannes 106>,"son (in fact, nephew)"
+<Gagik 101>,<Anonyma 159>,husband
+<Michael 274>,<Eudokia 111>,husband
+<Michael 274>,<Konstantinos 125>,son
+<Michael 274>,<Eirene 61>,son-in-law
+<Michael 274>,<Alexios 1>,son-in-law
+<Anonymi 4001>,<Anonyma 4003>,sons
+<Gaita 101>,<Anonymus 121>,daughter
+<Gaita 101>,<Robert 61>,wife
+<Anonyma 207>,<Nikephoros 160>,mother
+<Anonyma 2138>,<Anonymus 2316>,wife
+<Galato 101>,<Georgios 165>,daughter
+<Ioannes 61>,<Anonymus 5018>,father
+<Ioannes 61>,<Nikephoros 62>,brother
+<Ioannes 61>,<Anna 64>,son
+<Ioannes 61>,<Katakalon 61>,kin
+<Anonyma 2139>,<Konstantinos 120>,wife
+<Michael 119>,<Michael 6>,nephew
+<Georgios 61>,<Anna 63>,husband
+<Georgios 61>,<Maria 62>,son-in-law
+<Georgios 61>,<Nikephoros 101>,son
+<Georgios 61>,<Ioannes 65>,brother-in-law
+<Georgios 61>,<Anonymus 2347>,nephew
+<Georgios 61>,<Alexios 1>,husband of sister-in-law
+<Georgios 61>,<Basileios 61>,cousin
+<Georgios 61>,<Michael 121>,brother-in-law
+<Anonyma 2142>,<Michael 61>,kin
+<Achsartanes 11001>,<Gregorios 61>,brother-in-law
+<Achsartanes 11001>,<Apasios 11002>,brother
+<Alexios 20102>,<Eirene 20101>,husband
+<Anonymae 2102>,<Robert 61>,daughter
+<William 4007>,<Tancred 61>,brother
+<Leon 191>,<Konstantinos 251>,son
+<Ioannilos 101>,<Nesnastros 101>,father-in-law
+<Anonyma 190>,<Mousaraph 101>,wife
+<Anonymus 2104>,<Michael 11>,father
+<Georgios 106>,<Michael 4>,brother
+<Georgios 106>,<Ioannes 68>,brother
+<Blasios 105>,<Basileios 142>,son
+<Euphrosyne 103>,<Michael 202>,relative (aunt) by marriage
+<Murshid  101>,<Usama 101>,father
+<Murshid  101>,<Sultan  101>,brother
+<Theodoros 144>,<Demetrios 121>,son
+<Anonymus 7034>,<Isaakios 1>,nephew
+<Anonyma 12147>,<Anonymus 12257>,wife (betrothed)
+<Anonyma 12147>,<Anonymus 12256>,daughter
+<Anonymus 7035>,<Konstantinos 10>,son
+<Malik-Shah 51>,<Kutulmush 101>,kin
+<Malik-Shah 51>,<Tutush 101>,brother
+<Malik-Shah 51>,<Barkiyaruq 101>,father
+<Anonyma 4012>,<Beatrice 4001>,daughter
+<Anonyma 4012>,<Joscelin 4002>,daughter
+<Anonymus 7036>,<Michael 61>,spiritual brother
+<Anonymus 7036>,<Eudokia 1>,father
+<Anna 107>,<Basileios 142>,wife
+<Anonymus 116>,<Anonyma 104>,husband
+<Kyriakos 105>,<Nesnastros 101>,father
+<Anonymus 147>,<Mousaraph 101>,nephew
+<Maria 164>,<Anonyma 204>,daughter
+<Maria 164>,<Ioannes 384>,sister
+<Maria 164>,<Demetrios 158>,daughter
+<Maria 164>,<Nikolaos 219>,cousin
+<Maria 164>,<Theodoros 207>,wife
+<Mera 101>,<Stephanos 121>,wife
+<Romanos 2>,<Basileios 2>,father
+<Romanos 2>,<Konstantinos 8>,father
+<Romanos 2>,<Anonymus 562>,cousin
+<Anonyma 195>,<Anonyma 191>,daughter
+<Anonyma 195>,<Anonymus 584>,sister
+<Anonyma 195>,<Kyrillos 106>,daughter
+<Michael 234>,<Konstantinos 214>,son
+<Anonymus 2586>,<Ioannes 18>,nephew
+<Anonymi 121>,<Basileios 104>,son
+<Ioannikios 104>,<Basileios 142>,father
+<Merotas 101>,<Maria 110>,brother
+<Merotas 101>,<Georgios 134>,son
+<Merotas 101>,<Kale 101>,son
+<Merotas 101>,<Basileios 130>,brother
+<Eirene 61>,<Manuel 106>,mother
+<Eirene 61>,<Maria 62>,daughter
+<Eirene 61>,<Isaakios 102>,mother
+<Eirene 61>,<Andronikos 61>,daughter
+<Eirene 61>,<Theodora 107>,mother
+<Eirene 61>,<Eudokia 111>,mother
+<Eirene 61>,<Zoe 110>,mother
+<Eirene 61>,<Nikephoros 117>,mother-in-law
+<Eirene 61>,<Ioannes 2>,mother
+<Eirene 61>,<Maria 146>,mother
+<Eirene 61>,<Michael 7>,niece
+<Eirene 61>,<Anna 61>,daughter-in-law
+<Eirene 61>,<Anna 63>,sister
+<Eirene 61>,<Konstantinos 284>,sister
+<Eirene 61>,<Michael 121>,sister
+<Eirene 61>,<Ioannes 63>,daughter-in-law
+<Eirene 61>,<Konstantios 61>,niece
+<Eirene 61>,<Konstantinos 62>,mother-in-law
+<Eirene 61>,<Alexios 1>,wife
+<Eirene 61>,<Eirene 63>,mother-in-law
+<Eirene 61>,<Michael 274>,mother-in-law
+<Eirene 61>,<Traianos 101>,granddaughter
+<Eirene 61>,<Alexios 25002>,grandmother
+<Eirene 61>,<Anna 62>,mother
+<Eirene 61>,<Nikephoros 178>,mother-in-law
+<Eirene 61>,<Stephanos 162>,sister
+<Eirene 61>,<Anonymi 172>,mother
+<Eirene 61>,<Ioannes 62>,granddaughter
+<Eirene 61>,<Ioannes 65>,sister
+<Eirene 61>,<Konstantinos 286>,mother-in-law
+<Eirene 61>,<Nikephoros 20151>,aunt
+<Eirene 61>,<Eirene 64>,mother-in-law
+<Eirene 61>,<Eirene 20117>,granddaughter
+<Eirene 61>,<Radomir 102>,kin
+<Eirene 61>,<Eirene 25003>,grandmother
+<Eirene 61>,<Andronikos 108>,mother
+<Eirene 61>,<Eirene 62>,mother-in-law
+<Eirene 61>,<Theodora 5001>,sister
+<Buldagis 26101>,<Yaghi Siyan 4001>,son
+<Eirene 101>,<Radomir 101>,wife (second)
+<Anonymus 2172>,<Anonymus 2173>,uncle
+<Anonymi 126>,<Theophylaktos 105>,kin
+<Anonymus 2347>,<Georgios 2101>,uncle
+<Zacharias 103>,<Ioannilos 102>,son
+<Eirene 103>,<Anonymi 141>,grandmother
+<Eirene 103>,<Eustathios 105>,sister
+<Anonymus 613>,<Nikephoros 148>,father
+<Eirene 105>,<Kale 102>,sister
+<Ioannes 12104>,<Theophylaktos 12101>,father-in-law
+<Ioannes 12104>,<Theophano 12102>,father
+<Ioannes 12104>,<Anna 12103>,husband
+<Anonymi 157>,<Niketas 150>,children
+<Anonymi 157>,<Eirene 133>,children
+<Alexios 5001>,<Anna 61>,father
+<Kutulmush 101>,<Tughrul Beg 51>,nephew
+<Kutulmush 101>,<Anonymus 125>,kin
+<Kutulmush 101>,<Ibrahim Yinal 101>,nephew (cousin)
+<Kutulmush 101>,<Abimelech 101>,brother
+<Kutulmush 101>,<Anonymi 110>,father
+<Kutulmush 101>,<Anonymus 189>,son
+<Kutulmush 101>,<Sulayman 5000>,father
+<Kutulmush 101>,<Mansur 5000>,father
+<Kutulmush 101>,<Malik-Shah 51>,kin
+<Ioannilos 102>,<Zacharias 103>,father
+<Ioannilos 102>,<Nikolaos 128>,son
+<Ioannilos 102>,<Dobrana 101>,father
+<Ioannilos 102>,<Christina 102>,husband
+<Ioannilos 102>,<Ioannes 194>,husband of sister of wife
+<Ioannilos 102>,<Nikolaos 129>,father
+<Ioannilos 102>,<Helena 108>,father
+<Anonymus 584>,<Anonyma 191>,son
+<Anonymus 584>,<Kyrillos 106>,son
+<Anonymus 584>,<Anonyma 195>,brother
+<Anonymus 17052>,<Raymond 61>,son
+<Anonymus 728>,<Maria 146>,child (gender unknown)
+<Anonymus 728>,<Anonyma 218>,Parent
+<Helena 12101>,<Agathe 12101>,mother
+<Helena 12101>,<Theophano 12103>,grandmother
+<Helena 12101>,<Michael 12105>,daughter
+<Helena 12101>,<Pankratios 12101>,wife
+<Nikolaos 12103>,<Anna 12102>,son
+<Nikolaos 12103>,<Eudokia 12101>,husband
+<Petros 132>,<Kale 130>,husband
+<Petros 132>,<Mitze 101>,father
+<Nikolaos 141>,<Theodoros 146>,son
+<Michael 4>,<Zoe 1>,husband (second)
+<Michael 4>,<Anonymi 6020>,brother
+<Michael 4>,<Niketas 104>,brother
+<Michael 4>,<Konstantinos 64>,brother
+<Michael 4>,<Ioannes 68>,brother
+<Michael 4>,<Stephanos 101>,brother-in-law
+<Michael 4>,<Konstantinos 110>,uncle
+<Michael 4>,<Georgios 106>,brother
+<Michael 4>,<Antonios 101>,kin
+<Michael 4>,<Michael 5>,uncle
+<Michael 4>,<Maria 104>,brother
+<Michael 4>,<Anonymi 6008>,brother
+<Michael 4>,<Anonymus 391>,brother
+<Anonymi 2105>,<Eudokia 1>,children
+<Anonymi 2105>,<Konstantinos 10>,children
+<Nikolaos 142>,<Dobrana 103>,husband
+<Nikolaos 142>,<Basileios 150>,brother
+<Nikolaos 142>,<Nixas 101>,son
+<Nikolaos 142>,<Theodoros 147>,father
+<Eirene 20101>,<Alexios 3>,daughter (eldest)
+<Eirene 20101>,<Alexios 20102>,wife
+<Anonymi 177>,<Leon 177>,children
+<Adrianos 102>,<Zoe 101>,husband
+<Adrianos 102>,<Nikephoros 64>,brother-in-law
+<Adrianos 102>,<Gregorios 108>,uncle
+<Adrianos 102>,<Alexios 1>,brother
+<Adrianos 102>,<Ioannes 2>,uncle
+<Adrianos 102>,<Anna 61>,son
+<Adrianos 102>,<Ioannes 63>,son (fourth)
+<Nikolaos 112>,<Kyriakos 105>,son-in-law
+<Nikolaos 112>,<Georgios 125>,son
+<Konstantinos 20111>,<Maria 25003>,husband
+<Konstantinos 20111>,<Anonymi 25004>,father
+<Michael 188>,<Ioannes 242>,kin
+<Michael 188>,<Theophano 104>,husband
+<Elias 104>,<Lazaros 104>,uncle
+<Isaakios 102>,<Anna 20121>,father
+<Isaakios 102>,<Eirene 61>,son
+<Isaakios 102>,<Ioannes 25002>,father
+<Isaakios 102>,<Alexios 1>,son
+<Isaakios 102>,<Anonymi 17004>,father
+<Isaakios 102>,<Ioannes 2>,brother
+<Isaakios 102>,<Manuel 1>,uncle
+<Isaakios 102>,<Eirene 63>,husband
+<Ignatios 107>,<Lazaros 104>,brother
+<Ignatios 107>,<Iouditta 101>,son (adopted)
+<Isaakios 103>,<Alexios 25001>,father
+<Isaakios 103>,<Anonyma 17005>,husband
+<Isaakios 103>,<Maria 17003>,father
+<Isaakios 103>,<Andronikos 109>,brother
+<Isaakios 103>,<Theodora 17002>,father
+<Isaakios 103>,<Ioannes 508>,father
+<Isaakios 103>,<Ioannes 2>,son
+<Isaakios 103>,<Alexios 103>,brother
+<Isaakios 103>,<Manuel 1>,brother
+<Isaakios 103>,<Anonymi 17003>,father
+<Ioannes 106>,<Ashot 101>,brother
+<Ioannes 106>,<Anonyma 110>,husband
+<Ioannes 106>,<Gagik 101>,"father (in fact, uncle)"
+<Kale 129>,<Michael 202>,mother
+<Kale 130>,<Petros 132>,wife
+<William 4013>,<Godfrey 51>,brother
+<Nikolaos 15002>,<Marianos 15001>,father
+<Anna 102>,<Romanos 106>,mother
+<Anna 102>,<Eustathios 105>,wife
+<Louis 101>,<Amadeus 102>,nephew
+<Louis 101>,<Anonyma 246>,son
+<Louis 101>,<Raymond 4004>,kin (by blood)
+<Louis 101>,<Eleanor 101>,husband (divorced)
+<Louis 101>,<Agnes 101>,father
+<Louis 101>,<Anonyma 247>,kin
+<Louis 101>,<William 106>,nephew
+<Louis 101>,<Constance 101>,husband
+<Louis 101>,<Louis 103>,son
+<Louis 101>,<Robert 105>,brother
+<Conrad 53>,<Henry 17002>,brother
+<Conrad 53>,<Henry 55>,son
+<Conrad 53>,<Frederick 51>,uncle
+<Conrad 53>,<Otto 101>,brother
+<Conrad 53>,<Anonyma 255>,half-brother
+<Conrad 53>,<Eirene 66>,kin
+<Conrad 53>,<Manuel 1>,kin
+<Conrad 53>,<Anonymus 17024>,brother (younger)
+<Konstantinos 181>,<Isaakios 61>,brother-in-law
+<Konstantinos 181>,<Romanos 4>,son
+<Konstantinos 181>,<Theodora 106>,husband
+<Ioannes 324>,<Georgios 211>,son
+<Ioannitzes 101>,<Demetrios 127>,son
+<Theognostos 102>,<Michael 105>,grandson
+<Basileios 12103>,<Georgios 12101>,brother
+<Basileios 12103>,<Eirene 12101>,father
+<Anonymus 12226>,<Anonyma 12138>,husband (first)
+<Anonyma 2104>,<Ioannes 2106>,grandmother
+<Anonyma 2104>,<Anonymus 2117>,mother-in-law
+<Anonyma 2104>,<Stephanos 2101>,wife
+<Anonymus 2173>,<Michael 61>,son (?)
+<Anonymus 2173>,<Anonymus 2172>,nephew
+<Mousaraph 101>,<Anonyma 190>,husband
+<Mousaraph 101>,<Anonymus 565>,father
+<Mousaraph 101>,<Anonymus 147>,uncle
+<Mousaraph 101>,<Anonymae 105>,father
+<Balian 102>,<Balian 101>,son
+<Balian 102>,<Baldwin 102>,brother
+<Balian 102>,<Anonyma 258>,son
+<Balian 102>,<Hugh 106>,brother
+<Konstas 101>,<Basileios 151>,father
+<Michael 7>,<Anna 62>,kin
+<Michael 7>,<Konstantinos 61>,cousin
+<Michael 7>,<Konstantinos 120>,relative (maternal)
+<Michael 7>,<Nikephoros 64>,brother
+<Michael 7>,<Anonymae 5000>,brother
+<Michael 7>,<Ioannes 62>,nephew
+<Michael 7>,<Eudokia 1>,son
+<Michael 7>,<Andronikos 61>,cousin
+<Michael 7>,<Leon 15005>,brother
+<Michael 7>,<Konstantinos 62>,father
+<Michael 7>,<Romanos 4>,step-son
+<Michael 7>,<Eirene 61>,uncle
+<Michael 7>,<Konstantinos 10>,son
+<Michael 7>,<Robert 61>,relative by marriage
+<Michael 7>,<Maria 61>,husband
+<Michael 7>,<Andronikos 62>,brother
+<Michael 7>,<Konstantios 61>,brother
+<Michael 7>,<Konstantinos 5010>,kin
+<Ibrahim Yinal 101>,<Kutulmush 101>,uncle (cousin)
+<Ibrahim Yinal 101>,<Melech 101>,father
+<Ibrahim Yinal 101>,<Aspan 101>,half-brother
+<Ibrahim Yinal 101>,<Tughrul Beg 51>,half-brother
+<Gregorios 12104>,<Eirene 12102>,father
+<Gregorios 12104>,<Anonymus 12253>,son
+<Iouditta 101>,<Ignatios 107>,mother (adoptive)
+<Neanga 101>,<Paulos 110>,wife
+<Samuel 101>,<Anonyma 101>,brother
+<Samuel 104>,<Michael 105>,grandson
+<Arnulf 4001>,<Emelota 4001>,uncle
+<Ioannes 392>,<Manuel 1>,nephew
+<Raymond 61>,<William Jordan 4001>,uncle
+<Raymond 61>,<Alphonse 4001>,father
+<Raymond 61>,<Anonymus 17002>,father
+<Raymond 61>,<Anonyma 4007>,husband
+<Raymond 61>,<Bertrand 4001>,father
+<Raymond 61>,<Hugh 4003>,brother
+<Aubrey 4002>,<William 4008>,brother
+<Aubrey 4002>,<Ivo 4001>,brother
+<Ioannes 68>,<Maria 104>,brother
+<Ioannes 68>,<Stephanos 101>,brother
+<Ioannes 68>,<Konstantinos 9101>,kin
+<Ioannes 68>,<Georgios 106>,brother
+<Ioannes 68>,<Anonymae 102>,kin
+<Ioannes 68>,<Michael 5>,uncle
+<Ioannes 68>,<Anonymi 7005>,cousin of parent
+<Ioannes 68>,<Niketas 104>,brother
+<Ioannes 68>,<Konstantinos 64>,brother
+<Ioannes 68>,<Michael 4>,brother (first)
+<Ioannes 68>,<Anonymi 6008>,brother
+<Raymond 4004>,<Hodierna 4001>,husband
+<Raymond 4004>,<Louis 101>,kin (by blood)
+<Raymond 4004>,<Constance 4002>,kin (by blood)
+<Raymond 4004>,<Raymond 17002>,father
+<Raymond 4004>,<Pons 4002>,son
+<Raymond 4004>,<Fulk 4001>,nephew (sister's son)
+<Raymond 4004>,<Melisende 17001>,father
+<Sophia 104>,<Anonyma 161>,daughter
+<Sophia 104>,<Euphrosyne 103>,niece
+<Sophia 104>,<Anastaso 101>,sister
+<Sophia 104>,<Michael 202>,wife (first)
+<Maria 20115>,<Konstantinos 9>,sister
+<Maria 20115>,<Konstantinos 10>,sister
+<Anonyma 8106>,<Manuel 61>,daughter
+<Anonyma 8106>,<Anonymus 15024>,wife (betrothed)
+<Anonyma 8106>,<Anna 61>,granddaughter
+<Alexios 111>,<Theodoros 17002>,son
+<Alexios 111>,<Andronikos 17010>,brother
+<Alexios 111>,<Manuel 1>,nephew
+<Anonymus 2387>,<Romanos 104>,father
+<Anonymus 234>,<Michael 61>,grandson
+<Renaud 4005>,<Joscelin 4002>,son(-in-law)
+<Renaud 4005>,<Agnes 4001>,husband (first)
+<Nikolaos 225>,<Konstantinos 251>,son
+<Baldwin 51>,<Anonyma 4005>,husband
+<Baldwin 51>,<Simon 102>,uncle
+<Baldwin 51>,<Godehilde 4001>,husband
+<Baldwin 51>,<Eustace 4002>,son
+<Baldwin 51>,<Taftoc 4001>,son-in-law
+<Baldwin 51>,<Adelaide 4001>,husband
+<Baldwin 51>,<Baldwin 52>,kin
+<Baldwin 51>,<Eustace 4001>,brother
+<Baldwin 51>,<Godfrey 51>,brother
+<Baldwin 51>,<Thoros 101>,son (adopted)
+<Michael 61>,<Anonymus 2134>,son
+<Michael 61>,<Anonymus 2179>,kin
+<Michael 61>,<Anonymus 2466>,kin
+<Michael 61>,<Anonymus 2288>,kin
+<Michael 61>,<Styliane 2101>,father
+<Michael 61>,<Anonymus 2173>,father
+<Michael 61>,<Anonymus 2583>,kin
+<Michael 61>,<Anonymus 2272>,kin (not by blood)
+<Michael 61>,<Anonymus 436>,grandfather
+<Michael 61>,<Konstantinos 120>,spiritual uncle
+<Michael 61>,<Anonymus 272>,brother
+<Michael 61>,<Anonymus 2316>,kin
+<Michael 61>,<Anonymus 2491>,kin
+<Michael 61>,<Anonymus 2414>,kin
+<Michael 61>,<Anonymus 2480>,kin
+<Michael 61>,<Anonymus 2547>,spiritual son
+<Michael 61>,<Anonymus 2463>,kin
+<Michael 61>,<Anonymus 2139>,kin
+<Michael 61>,<Anonyma 2142>,kin
+<Michael 61>,<Theodote 2101>,son
+<Michael 61>,<Eudokia 1>,uncle
+<Michael 61>,<Anonymus 2511>,kin
+<Michael 61>,<Anonymus 7036>,spiritual brother
+<Michael 61>,<Anonyma 2119>,husband
+<Michael 61>,<Anonymus 2548>,spiritual brother
+<Michael 61>,<Euphemia 103>,father (adoptive)
+<Michael 61>,<Anonymus 234>,grandfather
+<Michael 61>,<Anonymus 2572>,kin
+<Michael 61>,<Anonymus 2525>,spiritual father
+<Michael 61>,<Elpidios 2101>,father-in-law
+<Michael 61>,<Christophoros 2101>,kin
+<Michael 61>,<Anonyma 2110>,brother
+<Baldwin 52>,<Morphia 4001>,husband
+<Baldwin 52>,<Anonyma 26113>,nephew
+<Baldwin 52>,<Melisende 4001>,son
+<Baldwin 52>,<Baldwin 53>,grandfather
+<Baldwin 52>,<Alice 4001>,father
+<Baldwin 52>,<Hodierna 4001>,father
+<Baldwin 52>,<Eustace 4001>,kin
+<Baldwin 52>,<Fulk 4001>,father-in-law
+<Baldwin 52>,<Bohemond 17001>,father-in-law
+<Baldwin 52>,<Hugh 4008>,cousin (first)
+<Baldwin 52>,<Gabriel 4001>,son-in-law
+<Baldwin 52>,<Joscelin 4001>,cousin
+<Baldwin 52>,<Anonymus 4039>,uncle
+<Baldwin 52>,<Melisende 4002>,father
+<Baldwin 52>,<Baldwin 51>,kin
+<Baldwin 52>,<Roger 4002>,in-law
+<Baldwin 52>,<Cecilia 102>,brother
+<Baldwin 52>,<Hugh 4006>,son
+<Baldwin 52>,<Godfrey 51>,relative
+<Baldwin 52>,<Iveta 4001>,father
+<Richard 4001>,<Tancred 61>,close kin
+<Richard 4001>,<Renaud 4002>,brother
+<Richard 4001>,<Robert 61>,nephew
+<Richard 4001>,<William 110>,son
+<Richard 4001>,<Bohemond 61>,nephew
+<Richard 4001>,<Roger 4002>,father
+<Richard 4001>,<Tancred 101>,brother
+<Maria 110>,<Demetrios 114>,mother
+<Maria 110>,<Kale 101>,daughter
+<Maria 110>,<Konstantinos 139>,mother
+<Maria 110>,<Basileios 130>,sister
+<Maria 110>,<Helena 106>,mother
+<Maria 110>,<Georgios 134>,daughter
+<Maria 110>,<Merotas 101>,sister
+<Maria 146>,<Andronikos 17007>,mother
+<Maria 146>,<Anna 62>,sister
+<Maria 146>,<Eirene 61>,daughter
+<Maria 146>,<Anonyma 217>,mother
+<Maria 146>,<Ioannes 468>,mother
+<Maria 146>,<Anonymus 728>,mother
+<Maria 146>,<Nikephoros 178>,wife
+<Maria 146>,<Alexios 1>,daughter
+<Maria 146>,<Anonyma 218>,grandmother
+<Maria 146>,<Alexios 25002>,mother
+<Anonymus 12185>,<Anonymus 12186>,father
+<Anonymus 12185>,<Anonyma 12126>,husband
+<Anonymus 12257>,<Andronikos 12101>,son
+<Anonymus 12257>,<Anonyma 12147>,husband (betrothed)
+<Anonymus 5076>,<Anonyma 105>,husband
+<William 4014>,<Raymond 17001>,father
+<William 4014>,<Henry 54>,kin
+<William 4014>,<Radulf 107>,kin
+<Anonymus 2388>,<Romanos 104>,grandfather
+<Ridwan 4001>,<Tutush 101>,son
+<Ridwan 4001>,<Anonymus 26166>,father
+<Ridwan 4001>,<Sultan-Shah 101>,father
+<Anonyma 25004>,<Anonymus 25013>,wife
+<Anonyma 25004>,<Alexios 103>,niece
+<Anonymus 218>,<Theophylaktos 105>,brother
+<Baldwin 53>,<Anonyma 257>,brother
+<Baldwin 53>,<Baldwin 52>,grandson
+<Baldwin 53>,<Constance 4001>,cousin (first)
+<Baldwin 53>,<Melisende 4002>,son
+<Baldwin 53>,<Constance 4002>,kin (by blood)
+<Baldwin 53>,<Theodora 17002>,husband
+<Baldwin 53>,<Amalric 51>,brother (elder)
+<Baldwin 53>,<Fulk 4001>,son
+<Ioannes 113>,<Leon 61>,father-in-law
+<Moscho 101>,<Kalos 103>,wife
+<Beatrice 4001>,<Anonymi 214>,mother
+<Beatrice 4001>,<Joscelin 4003>,mother
+<Beatrice 4001>,<Joscelin 4002>,wife
+<Beatrice 4001>,<Anonyma 4012>,mother
+<Beatrice 4001>,<William 4020>,wife
+<Beatrice 4001>,<Agnes 4001>,mother
+<Isaakios 61>,<Eirene 65>,husband
+<Isaakios 61>,<Konstantinos 181>,brother-in-law
+<Isaakios 61>,<Ioannes 63>,son (second)
+<Isaakios 61>,<Isaakios 1>,nephew
+<Isaakios 61>,<Anonyma 15018>,father
+<Isaakios 61>,<Ioannes 2>,uncle
+<Isaakios 61>,<Anonymae 6001>,father
+<Isaakios 61>,<Konstantinos 131>,father
+<Isaakios 61>,<Anna 61>,son
+<Isaakios 61>,<Theodora 106>,brother
+<Isaakios 61>,<Manuel 61>,brother
+<Isaakios 61>,<Adrianos 25001>,father
+<Isaakios 61>,<Anonymi 6073>,father
+<Isaakios 61>,<Anna 25003>,father
+<Isaakios 61>,<Eudokia 108>,brother
+<Isaakios 61>,<Maria 61>,cousin
+<Isaakios 61>,<Ioannes 128>,father
+<Isaakios 61>,<Alexios 1>,brother
+<Isaakios 61>,<Maria 20116>,grandfather
+<Isaakios 61>,<Alexios 105>,father
+<Isaakios 61>,<Anna 62>,uncle
+<Kosmas 103>,<Anna 106>,father
+<Kosmas 103>,<Aniketos 101>,son
+<Kosmas 103>,<Choudesilas 101>,grandson
+<Kosmas 103>,<Zoulana 101>,husband
+<Kosmas 103>,<Prokopios 102>,father
+<Michael 101>,<Voislav 101>,son
+<Michael 101>,<Anonyma 104>,father
+<Michael 101>,<Konstantinos 102>,father
+<Konstantios 61>,<Eirene 61>,uncle
+<Konstantios 61>,<Konstantinos 10>,son
+<Konstantios 61>,<Andronikos 61>,cousin
+<Konstantios 61>,<Michael 7>,brother
+<Konstantios 61>,<Ioannes 62>,nephew
+<Konstantios 61>,<Andronikos 62>,brother
+<Konstantios 61>,<Zoe 101>,brother
+<Konstantios 61>,<Eudokia 1>,son
+<Konstantios 61>,<Romanos 4>,step-son
+<Theophylaktos 105>,<Anonymus 218>,brother
+<Theophylaktos 105>,<Anonymi 126>,kin
+<Theophylaktos 105>,<Anonymus 265>,uncle
+<Theophylaktos 105>,<Demetrios 103>,brother
+<Theophylaktos 105>,<Anonymi 131>,brother
+<Eustace 4003>,<Eustace 4004>,father
+<Eustace 4003>,<Walter 4004>,father
+<Eustace 4003>,<Emelota 4001>,husband (first)
+<Godehilde 4001>,<Baldwin 51>,wife
+<Isaakios 2>,<Ioannes 469>,nephew
+<Isaakios 2>,<Alexios 1>,great grandson
+<Isaakios 2>,<Konstantinos 20319>,cousin (first)
+<Isaakios 2>,<Alexios 4>,father
+<Isaakios 2>,<Euphrosyne 20101>,brother-in-law
+<Isaakios 2>,<Alexios 3>,brother
+<Isaakios 2>,<Ioannes 20113>,brother-in-law
+<Konstantinos 251>,<Konstantinos 252>,father-in-law
+<Konstantinos 251>,<Leon 191>,father
+<Konstantinos 251>,<Maria 166>,husband
+<Konstantinos 251>,<Nikolaos 225>,father
+<Anonymus 2122>,<Robert 61>,son
+<Antonios 101>,<Michael 4>,kin
+<Anonyma 218>,<Anonymus 728>,daughter
+<Anonyma 218>,<Maria 146>,granddaughter
+<Anonyma 4003>,<Tzachas 61>,daughter
+<Anonyma 4003>,<Anonymi 4001>,mother
+<Anonyma 4003>,<Kilic Arslan 51>,wife
+<Anonymus 5016>,<Anonyma 5006>,father
+<Maria 119>,<Paulos 112>,wife
+<Anonymus 2130>,<Ioannes 289>,uncle
+<Katakalon 61>,<Ioannes 61>,kin
+<Katakalon 61>,<Helena 5000>,brother
+<Katakalon 61>,<Joseph 61>,son
+<Anonymus 2131>,<Ioannes 289>,brother
+<Nikolaos 219>,<Ioannes 384>,cousin
+<Nikolaos 219>,<Maria 164>,cousin
+<Aplesphares 101>,<Ashot 101>,son-in-law
+<Aplesphares 101>,<Phatloum 101>,brother
+<Gregorios 111>,<Eirene 102>,husband
+<Gregorios 111>,<Eustathios 105>,son-in-law
+<Ouresis 17001>,<Anonyma 17006>,brother
+<Ouresis 17001>,<Belouses 17001>,brother
+<Ouresis 17001>,<Dese 17001>,brother
+<Anonymi 143>,<Nikolaos 136>,brother
+<Anonymus 2139>,<Michael 61>,kin
+<William 10102>,<Robert 63>,father
+<Nikephoros 20151>,<Eirene 61>,nephew
+<Anonymus 5018>,<Ioannes 61>,son
+<Nikolaos 230>,<Anna 153>,father
+<Alexios 101>,<Rosanna 103>,son
+<Lykianos 101>,<Kalos 103>,son
+<Theodoros 207>,<Maria 164>,husband
+<Theodoros 207>,<Christophoros 109>,son
+<Amalric 51>,<Baldwin 53>,brother (younger)
+<Amalric 51>,<Baldwin 54>,father
+<Amalric 51>,<Maria 17006>,husband
+<Amalric 51>,<Agnes 4001>,husband
+<Amalric 51>,<Fulk 4001>,son
+<Amalric 51>,<Sibylla 4001>,father
+<Arduin 101>,<Robert 61>,uncle
+<Anonymus 25013>,<Anonyma 25004>,husband
+<Anonymus 12258>,<Anonyma 12148>,husband
+<Anonymus 12258>,<Andronikos 12101>,son-in-law
+<Anonymus 12258>,<Anonymus 12256>,son
+<Romanos 61>,<Nikephoros 3>,kin
+<Maria 157>,<Kyriakos 119>,wife
+<Odo 26101>,<Stephanos 4002>,father
+<Anonyma 2126>,<Anonyma 2125>,daughter
+<Anonyma 2126>,<Anonymus 2238>,daughter
+<Anonyma 2126>,<Theodoros 101>,wife
+<Theodoros 140>,<Lazaros 102>,son
+<Michael 105>,<Theognostos 102>,grandfather
+<Michael 105>,<Bardas 114>,ancestor (grandfather)
+<Michael 105>,<Michael 120>,grandfather
+<Michael 105>,<Konstantinos 20476>,father
+<Michael 105>,<Samuel 104>,grandfather
+<Anonymi 14123>,<Theodosios 14102>,brother
+<Theodoros 141>,<Zakchaios 101>,son
+<Nikephoros 101>,<Georgios 61>,father
+<Nikephoros 101>,<Ioannes 62>,relative by marriage
+<Guy 102>,<Anonyma 256>,husband
+<Konstantinos 139>,<Maria 110>,son
+<Konstantinos 139>,<Georgios 134>,grandson
+<Theodoros 143>,<Nikolaos 139>,father
+<Theodoros 143>,<Mauros 102>,son
+<Theodoros 143>,<Chryse 101>,husband
+<Theodoros 143>,<Chrysos 101>,father
+<Basileios 141>,<Stanilas 101>,father
+<Basileios 103>,<Poulcheria 101>,husband
+<Basileios 103>,<Romanos 3>,brother-in-law
+<Basileios 103>,<Romanos 101>,son
+<Basileios 103>,<Anonyma 6006>,father
+<Artaseiras 101>,<Phatloum 101>,son
+<Ioannes 25008>,<Gregorios 105>,son
+<Theodoros 146>,<Georgios 151>,brother
+<Theodoros 146>,<Mera 103>,husband
+<Theodoros 146>,<Tzernes 102>,father
+<Theodoros 146>,<Eustathios 111>,father
+<Theodoros 146>,<Nikolaos 141>,father
+<Alexios 20120>,<Ioannes 469>,son
+<Michael 106>,<Romanos 3>,kin
+<Adrianos 101>,<Romanos 103>,nephew
+<Adrianos 101>,<Konstantinos 63>,nephew
+<Adrianos 101>,<Theophylaktos 102>,nephew
+<Theodoros 147>,<Nikolaos 142>,son
+<Eustace 4004>,<Eustace 4003>,son
+<Eustace 4004>,<Walter 4004>,brother (twin)
+<Eustace 4004>,<Emelota 4001>,son
+<Helena 7001>,<Konstantinos 9>,sister
+<Godfrey 51>,<Ida 4001>,son
+<Godfrey 51>,<Baldwin 52>,relative
+<Godfrey 51>,<Eustace 4002>,son
+<Godfrey 51>,<Alexios 1>,son (adopted)
+<Godfrey 51>,<Garnier 4001>,relative
+<Godfrey 51>,<Baldwin 51>,brother
+<Godfrey 51>,<William 4013>,brother
+<Godfrey 51>,<Eustace 4001>,brother
+<Godfrey 51>,<Godfrey 4004>,nephew
+<Anonyma 102>,<Alp Arslan 51>,daughter
+<Anonyma 102>,<Ioannes 15000>,sister
+<Anonyma 102>,<Anonymus 113>,wife (betrothed)
+<Kilic Arslan 52>,<Shahan-Shah 17001>,brother
+<Kilic Arslan 52>,<Masud 17001>,son
+<Kilic Arslan 52>,<Yaghi-Basan 17001>,relative by marriage
+<Abramios 105>,<Nikephoros 175>,spiritual father
+<Ioannes 450>,<Anna 154>,husband
+<Ioannes 450>,<Ioannes 2>,nephew (by marriage)
+<Eudokia 111>,<Alexios 1>,daughter (third)
+<Eudokia 111>,<Eirene 61>,daughter
+<Eudokia 111>,<Ioannes 2>,sister
+<Eudokia 111>,<Michael 274>,wife
+<Eudokia 111>,<Alexios 110>,mother
+<Isabella 101>,<Joscelin 4002>,daughter
+<Ioannes 218>,<Eirene 108>,husband
+<Ioannes 218>,<Prodanos 101>,father
+<Ioannes 218>,<Helena 110>,son-in-law
+<Ioannes 218>,<Konstantinos 157>,father
+<Theodoros 154>,<Paulos 112>,son
+<Anonyma 106>,<Nikephoros 3>,niece
+<Anonyma 106>,<Theodoulos 102>,daughter
+<Anonyma 106>,<Anonymus 137>,wife
+<Anna 62>,<Nikephoros 117>,wife
+<Anna 62>,<Ioannes 65>,niece
+<Anna 62>,<Eirene 61>,daughter
+<Anna 62>,<Ioannes 63>,granddaughter
+<Anna 62>,<Maria 62>,granddaughter
+<Anna 62>,<Nikephoros 178>,sister-in-law
+<Anna 62>,<Isaakios 61>,niece
+<Anna 62>,<Ioannes 2>,sister
+<Anna 62>,<Anna 61>,granddaughter
+<Anna 62>,<Michael 7>,kin
+<Anna 62>,<Maria 146>,sister
+<Anna 62>,<Maria 171>,mother
+<Anna 62>,<Konstantinos 285>,mother
+<Anna 62>,<Manuel 1>,aunt
+<Anna 62>,<Michael 121>,niece
+<Anna 62>,<Alexios 17005>,mother
+<Anna 62>,<Alexios 1>,daughter
+<Anna 62>,<Andronikos 118>,mother
+<Anna 62>,<Eirene 25003>,mother
+<Ioannes 12103>,<Theoktistos 12101>,grand nephew
+<Ioannes 12103>,<Demetrios 12101>,brother
+<Ioannes 12103>,<Maria 12104>,husband
+<Sergios 102>,<Symbatios 101>,half-brother
+<Sergios 102>,<Kale 102>,brother-in-law
+<Sergios 102>,<Belkonas 101>,father
+<Chotianos 101>,<Michael 147>,father
+<Chotianos 101>,<Konstantinos 134>,father
+<Henry 17002>,<Conrad 53>,brother
+<Henry 17002>,<Theodora 17001>,husband
+<Henry 17002>,<Agnes 17001>,father
+<Ioannes 459>,<Anonymus 777>,kin
+<Ioannes 459>,<Anonymi 187>,brother
+<Ioannes 459>,<Anonyma 219>,son
+<Ioannes 459>,<Isaakios 106>,brother
+<Ioannes 459>,<Anonymus 734>,son
+<Anonyma 4004>,<William 4008>,wife
+<Anonyma 4004>,<Bohemond 61>,sister
+<Anonyma 4004>,<Guy 4004>,sister
+<Eirene 17003>,<Nikephoros 17004>,wife
+<Eirene 17003>,<Manuel 1>,niece
+<Anonyma 251>,<Anar 101>,daughter
+<Anonyma 251>,<Nur al-Din 4001>,wife
+<Agnes 101>,<Louis 101>,daughter
+<Agnes 101>,<Alexios 2>,wife
+<Anonymi 14118>,<Christodoulos 101>,spiritual brother
+<Anonymus 2316>,<Anonyma 2138>,husband
+<Anonymus 2316>,<Michael 61>,kin
+<Anonymus 199>,<Theodosios 103>,father
+<Anonymus 199>,<Konstantinos 9>,uncle
+<Maria 111>,<Kale 102>,sister
+<Anonyma 104>,<Anonymus 116>,wife
+<Anonyma 104>,<Michael 101>,daughter
+<Anonymi 110>,<Kutulmush 101>,son
+<Anonymi 110>,<Anonymus 125>,kin
+<Maria 20117>,<Alexios 17004>,wife
+<Maria 20117>,<Alexios 103>,daughter
+<Georgios 191>,<Theodote 103>,father
+<Georgios 191>,<Nikolaos 183>,brother
+<Christina 102>,<Ioannilos 102>,wife
+<Anonyma 12138>,<Anonymus 12226>,wife
+<Anonyma 12138>,<Anonymi 12110>,mother
+<Anonyma 12138>,<Anonymus 12225>,wife
+<Nikolaos 136>,<Kale 104>,husband
+<Nikolaos 136>,<Charitza 101>,son
+<Nikolaos 136>,<Demetrios 144>,nephew
+<Nikolaos 136>,<Anonymi 143>,brother
+<Georgios 12101>,<Basileios 12103>,brother
+<Georgios 12101>,<Maria 12104>,father
+<Bagrat 101>,<Helena 104>,husband
+<Bagrat 101>,<Anonyma 6003>,son
+<Bagrat 101>,<Georgios 105>,son
+<Bagrat 101>,<Maria 103>,son
+<Bagrat 101>,<Maria 61>,father
+<Ioannes 293>,<Alexios 17004>,father
+<Anonyma 105>,<Nikephoros 62>,kin (not by blood)
+<Anonyma 105>,<Anonymi 5016>,mother
+<Anonyma 105>,<Anonymus 5076>,wife
+<Manuel 20114>,<Alexios 3>,cousin
+<Anonymus 12187>,<Anonymus 12186>,father-in-law
+<Ida 4001>,<Godfrey 4004>,sister
+<Ida 4001>,<Godfrey 51>,mother
+<Emelota 4001>,<Eustace 4003>,wife
+<Emelota 4001>,<Eustace 4004>,mother
+<Emelota 4001>,<Arnulf 4001>,niece
+<Emelota 4001>,<Hugh 4009>,wife
+<Emelota 4001>,<Walter 4004>,mother
+<Robert 63>,<William 26108>,father
+<Robert 63>,<William 10102>,son
+<Robert 63>,<Stephanos 4001>,brother-in-law
+<Robert 63>,<Stephanos 4002>,uncle
+<Anonyma 247>,<Louis 101>,kin
+<Anonyma 247>,<Robert 105>,kin
+<Anonyma 25005>,<Ioannes 2>,granddaughter
+<Anonyma 25005>,<Anonymus 25014>,wife
+<Roupen 101>,<Leon 17002>,father
+<Roupen 101>,<Toros 101>,father
+<Anonymus 992>,<Manuel 1>,nephew
+<Emma 101>,<Bohemond 61>,sister
+<Emma 101>,<Tancred 61>,mother
+<Alexios 4>,<Isaakios 2>,son
+<Alexios 4>,<Konstantinos 216>,nephew
+<Alexios 4>,<Eirene 132>,brother
+<Alexios 4>,<Philippos 102>,brother-in-law
+<Alexios 4>,<Alexios 3>,nephew
+<Ioannes 316>,<Georgios 204>,father
+<Ioannes 316>,<Maria 152>,husband
+<Amadeus 102>,<Louis 101>,uncle
+<Anonymus 2135>,<Theodote 2101>,father
+<Eustathios 111>,<Theodoros 146>,son
+<Eirene 122>,<Ioannes 247>,wife
+<Basileios 104>,<Helena 104>,father
+<Basileios 104>,<Romanos 3>,brother
+<Basileios 104>,<Anonymi 121>,father
+<Basileios 104>,<Anonyma 108>,father
+<Robert 105>,<Louis 101>,brother
+<Robert 105>,<Anonyma 247>,kin
+<Otto 101>,<Conrad 53>,brother
+<Anonymus 12180>,<Anonyma 12120>,father
+<Anonymus 12180>,<Anonyma 12121>,grandfather
+<Anonymus 12180>,<Anonyma 12122>,husband
+<Alousianos 101>,<Alousianos 101>,father
+<Alousianos 101>,<Anonyma 116>,husband
+<Alousianos 101>,<Anonymi 7003>,father
+<Alousianos 101>,<Aaron 101>,son (second)
+<Baldwin 104>,<Philippa 17001>,brother
+<Agnes 4002>,<Renaud 4006>,mother
+<Agnes 4002>,<Gerard 4004>,wife
+<Agnes 4002>,<Rainier 4002>,wife (second)
+<Agnes 4002>,<William 4015>,niece
+<Andronikos 20146>,<Ioannes 306>,son
+<Andronikos 20146>,<Manuel 1>,nephew
+<Ioannes 222>,<Demetrios 127>,son
+<Malka 101>,<Demetrios 127>,wife
+<Helena 102>,<Romanos 3>,wife (first)
+<Anonymus 600>,<Kyrillos 106>,nephew
+<Constance 4002>,<Anonymi 213>,mother
+<Constance 4002>,<Renaud 17001>,wife
+<Constance 4002>,<Raymond 4004>,kin (by blood)
+<Constance 4002>,<Melisende 4002>,niece
+<Constance 4002>,<Hodierna 4001>,niece
+<Constance 4002>,<Bohemond 17001>,daughter
+<Constance 4002>,<Raymond 17001>,wife
+<Constance 4002>,<Bohemond 20102>,mother
+<Constance 4002>,<Baldwin 53>,cousin (first)
+<Leon 157>,<Anthimos 102>,son
+<Leon 157>,<Mitze 101>,husband
+<Konstantinos 216>,<Alexios 4>,uncle
+<Anonymus 12123>,<Anonyma 12105>,grandfather
+<Ioannes 289>,<Anonymus 2356>,uncle
+<Ioannes 289>,<Anonymus 2542>,kin
+<Ioannes 289>,<Anonymus 2364>,brother
+<Ioannes 289>,<Anonymus 2131>,brother
+<Ioannes 289>,<Anonymus 2129>,nephew
+<Ioannes 289>,<Anonymus 2355>,brother
+<Ioannes 289>,<Anonymus 2130>,nephew
+<Anonyma 107>,<Prousianos 101>,sister
+<Anna 101>,<Eudokia 1>,daughter
+<Anna 101>,<Konstantinos 10>,daughter
+<Pankalos 101>,<Anonymus 352>,son
+<Maria 12103>,<Nikolaos 12103>,cousin
+<Maria 12103>,<Kosmas 12101>,wife (betrothed)
+<Maria 12103>,<Mitze 12101>,daughter
+<Anonyma 108>,<Basileios 104>,daughter
+<Anonyma 108>,<Konstantinos 101>,wife
+<Anonyma 108>,<Romanos 3>,niece
+<Pankratios 102>,<Gregoras 101>,brother
+<Pankratios 102>,<Nikoulitzas 101>,son
+<Anonyma 2113>,<Anonyma 2110>,daughter
+<Anonymi 192>,<Usama 101>,children
+<Anonymus 12252>,<Pankratios 12101>,father
+<Hugh 106>,<Balian 101>,son
+<Hugh 106>,<Baldwin 102>,brother
+<Hugh 106>,<Anonyma 258>,son
+<Hugh 106>,<Balian 102>,brother
+<Ioannes 312>,<Alexios 1>,nephew
+<Ioannes 312>,<Michael 121>,brother-in-law
+<Elizabeth 101>,<Stanilas 101>,daughter
+<Margar 101>,<Anonyma 252>,husband
+<Anonyma 208>,<Ioannes 469>,mother
+<Tancred 101>,<Richard 4001>,brother
+<Yaghi Siyan 4001>,<Anonyma 4006>,husband
+<Yaghi Siyan 4001>,<Shams al-Dawla 26101>,father
+<Yaghi Siyan 4001>,<Buldagis 26101>,father
+<Anonyma 12106>,<Anonyma 12105>,grandmother
+<Anonyma 12139>,<Anonymus 12224>,wife
+<Anonyma 12139>,<Anonymus 12225>,step-daughter
+<Anonymus 61>,<Nikephoros 62>,son
+<Anonymus 61>,<Anna 64>,grandson
+<Anonymus 61>,<Nikephoros 117>,father of son-in-law
+<Raymond 17002>,<Hodierna 4001>,son
+<Raymond 17002>,<Raymond 4004>,son
+<Raymond 17002>,<Melisende 17001>,brother
+<Sulayman 103>,<Ilghazi 4001>,son
+<Anonymus 17055>,<Raymond 17001>,father
+<Anonymus 2272>,<Anonyma 2131>,husband
+<Anonymus 2272>,<Michael 61>,kin (not by blood)
+<Eudokia 108>,<Nikephoros 115>,wife
+<Eudokia 108>,<Ioannes 63>,daughter (second)
+<Eudokia 108>,<Alexios 1>,sister
+<Eudokia 108>,<Isaakios 61>,sister
+<Eudokia 108>,<Ioannes 2>,aunt
+<Eudokia 108>,<Anna 61>,daughter
+<Anonyma 15018>,<Isaakios 61>,daughter
+<Anonymus 26149>,<Alexios 1>,kin
+<Anonymus 25014>,<Anonyma 25005>,husband
+<Anonymus 12188>,<Anonyma 12127>,husband
+<Anonymus 12188>,<Anonyma 12128>,husband
+<Anonymus 12188>,<Anonymus 12189>,father
+<Theodoros 17002>,<Ioannes 20463>,father
+<Theodoros 17002>,<Isaakios 20110>,father
+<Theodoros 17002>,<Andronikos 17010>,father
+<Theodoros 17002>,<Alexios 111>,father
+<Theodoros 17002>,<Manuel 1>,brother-in-law
+<Theodora 17001>,<Henry 17002>,wife
+<Theodora 17001>,<Manuel 1>,niece
+<Alexios 105>,<Alexios 1>,nephew
+<Alexios 105>,<Isaakios 61>,son (second)
+<Ioannes 128>,<Alexios 1>,nephew
+<Ioannes 128>,<Isaakios 61>,son
+<Anonymus 148>,<Amer 101>,father
+<Anonymus 2547>,<Anonymus 2548>,spiritual father
+<Anonymus 2547>,<Michael 61>,spiritual father
+<Anonyma 245>,<Nur al-Din 4001>,daughter
+<Anonyma 256>,<Guy 102>,wife
+<Anonyma 256>,<William 106>,sister
+<Masud 17001>,<Muhammad 17001>,kin
+<Masud 17001>,<Anonyma 17003>,son
+<Masud 17001>,<Kilic Arslan 52>,father
+<Masud 17001>,<Anonyma 25002>,father
+<Masud 17001>,<Melikshah 101>,half-brother
+<Anonymus 2548>,<Anonymus 2547>,spiritual son
+<Anonymus 2548>,<Michael 61>,spiritual brother
+<Eirene 137>,<Georgios 204>,wife
+<Stephanos 17006>,<Stephanos 54>,nephew
+<Godfrey 4003>,<Henry 4001>,brother
+<Gregoras 101>,<Pankratios 102>,brother
+<Gregoras 101>,<Nikoulitzas 101>,son
+<Stephanos 54>,<Laszlo 52>,brother (elder)
+<Stephanos 54>,<Maria 17003>,husband
+<Stephanos 54>,<Stephanos 17006>,uncle
+<Stephanos 54>,<Geza 52>,brother
+<Stephanos 54>,<Stephanos 53>,uncle (paternal)
+<Stephanos 54>,<Manuel 1>,relative by marriage
+<Romanos 3>,<Basileios 104>,brother
+<Romanos 3>,<Poulcheria 101>,brother
+<Romanos 3>,<Anonyma 110>,uncle
+<Romanos 3>,<Konstantinos 9>,uncle (by marriage)
+<Romanos 3>,<Theophano 12101>,ancestor (grandfather)
+<Romanos 3>,<Helena 104>,uncle
+<Romanos 3>,<Anonymus 562>,son
+<Romanos 3>,<Basileios 103>,brother-in-law
+<Romanos 3>,<Helena 102>,husband
+<Romanos 3>,<Konstantinos 101>,uncle of wife
+<Romanos 3>,<Romanos 101>,brother-in-law
+<Romanos 3>,<Romanos 110>,grandson
+<Romanos 3>,<Anonyma 108>,uncle
+<Romanos 3>,<Theodora 1>,kin
+<Romanos 3>,<Zoe 1>,husband
+<Romanos 3>,<Michael 106>,kin
+<Romanos 3>,<Anonyma 109>,brother
+<Romanos 3>,<Konstantinos 8>,son-in-law
+<Romanos 3>,<Anonyma 6006>,uncle
+<Romanos 3>,<Konstantinos 105>,brother-in-law
+<Stephanos 53>,<Geza 52>,son
+<Stephanos 53>,<Jaroslav 17001>,son-in-law (proposed)
+<Stephanos 53>,<Bela 53>,brother (elder)
+<Stephanos 53>,<Agnes 17001>,husband
+<Stephanos 53>,<Stephanos 54>,nephew
+<Stephanos 17003>,<Andronikos 17004>,father
+<Stephanos 17003>,<Manuel 1>,brother-in-law
+<Stephanos 17003>,<Eirene 25001>,father
+<Stephanos 17003>,<Alexios 25004>,father
+<Stephanos 17003>,<Anna 25001>,husband
+<Stephanos 17003>,<Ioannes 25006>,father
+<Radulf 107>,<William 4014>,kin
+<Anonymus 17037>,<Konstantinos 17001>,brother
+<Anonymus 2134>,<Theodote 2101>,husband
+<Anonymus 2134>,<Michael 61>,father
+<Theodora 107>,<Maria 25003>,mother
+<Theodora 107>,<Alexios 1>,daughter
+<Theodora 107>,<Eirene 61>,daughter
+<Theodora 107>,<Alexios 109>,mother
+<Theodora 107>,<Konstantinos 17001>,wife
+<Kyriakos 104>,<Ioannes 155>,father
+<Kyriakos 104>,<Nikolaos 112>,father-in-law
+<Anonyma 113>,<Konstantinos 63>,daughter
+<Anonyma 113>,<Konstantinos 10>,wife
+<Anonymus 17048>,<William 51>,brother
+<Romanos 4>,<Nikephoros 3>,kin
+<Romanos 4>,<Konstantinos 101>,son
+<Romanos 4>,<Anonymus 113>,father
+<Romanos 4>,<Leon 15005>,father
+<Romanos 4>,<Nikephoros 62>,brother
+<Romanos 4>,<Konstantinos 181>,father
+<Romanos 4>,<Michael 7>,step-father
+<Romanos 4>,<Leon 202>,father
+<Romanos 4>,<Eudokia 1>,husband
+<Romanos 4>,<Nikephoros 64>,father
+<Romanos 4>,<Konstantios 61>,step-father
+<Romanos 4>,<Andronikos 62>,step-father
+<Romanos 4>,<Anonyma 101>,husband
+<Tutush 101>,<Ridwan 4001>,father
+<Tutush 101>,<Malik-Shah 51>,brother
+<Theoktistos 12101>,<Ioannes 12103>,great uncle
+<Anonymus 12253>,<Gregorios 12104>,father
+<Stephanos 118>,<Ioannes 192>,son
+<Tancred 10101>,<William 10101>,father
+<Theodoros 6003>,<Gregorios 62>,father
+<Theodoros 6003>,<Anonyma 15019>,husband
+<Theodoros 6003>,<Anonyma 15020>,husband
+<Anonyma 25015>,<Georgios 25002>,mother
+<Roger 4003>,<Adelaide 4001>,husband
+<Roger 4003>,<Roger 17001>,father
+<Roger 4003>,<Robert 61>,brother
+<Roger 4003>,<Bohemond 61>,"brother (in fact, uncle)"
+<Stephanos 124>,<Belkonas 102>,father
+<Anonyma 252>,<Anar 101>,daughter
+<Anonyma 252>,<Margar 101>,wife
+<Helena 104>,<Basileios 104>,daughter
+<Helena 104>,<Bagrat 101>,wife
+<Helena 104>,<Romanos 3>,niece
+<Joseph 61>,<Katakalon 61>,father
+<Helena 5000>,<Katakalon 61>,sister
+<Isaakios 107>,<Manuel 1>,cousin
+<Isaakios 107>,<Konstantinos 17001>,son
+<David 20103>,<Andronikos 1>,grandson
+<Barbara 103>,<Ioannes 196>,daughter
+<Kalanna 102>,<Basileios 151>,wife
+<Roger 4002>,<Tancred 61>,kin
+<Roger 4002>,<Baldwin 52>,in-law
+<Roger 4002>,<Anonyma 26112>,son
+<Roger 4002>,<Richard 4001>,son
+<Roger 4002>,<Cecilia 102>,husband
+<Mansur 5000>,<Kutulmush 101>,son
+<Mansur 5000>,<Sulayman 5000>,brother
+<Kale 101>,<Maria 110>,mother
+<Kale 101>,<Basileios 130>,mother
+<Kale 101>,<Merotas 101>,mother
+<Manuel 119>,<Alexios 1>,grandfather
+<Manuel 119>,<Maria 169>,husband
+<Manuel 119>,<Ioannes 63>,father
+<Manuel 119>,<Isaakios 1>,father
+<Kale 102>,<Eudokia 102>,sister
+<Kale 102>,<Maria 111>,sister
+<Kale 102>,<Leon 103>,cousin
+<Kale 102>,<Eirene 105>,sister
+<Kale 102>,<Niketas 124>,sister
+<Kale 102>,<Zoe 103>,daughter
+<Kale 102>,<Sergios 102>,sister-in-law
+<Kale 102>,<Symbatios 101>,wife
+<Kale 102>,<Anonymus 325>,aunt
+<Kale 102>,<Anonymus 319>,daughter
+<Kale 102>,<Philaretos 102>,sister
+<Auberee 101>,<Robert 61>,wife
+<Tancred 61>,<Anonyma 239>,son
+<Tancred 61>,<Robert 108>,brother
+<Tancred 61>,<Anonyma 26112>,brother
+<Tancred 61>,<Bohemond 61>,nephew
+<Tancred 61>,<Emma 101>,son
+<Tancred 61>,<Odo 103>,son
+<Tancred 61>,<Roger 4002>,kin
+<Tancred 61>,<William 4007>,brother
+<Tancred 61>,<Richard 4001>,close kin
+<Tancred 61>,<Cecilia 4001>,husband
+<Anonymus 2137>,<Theodote 2101>,brother
+<Anonymus 5044>,<Asan 101>,father
+<Anonymus 5044>,<Tughrul Beg 51>,brother
+<Kale 103>,<Ioannes 196>,daughter
+<Anonyma 2102>,<Michael 11>,mother
+<Kale 104>,<Nikolaos 136>,wife
+<Anonymi 2114>,<Konstantinos 120>,children
+<Belfeth 4001>,<Dukak 4001>,uncle
+<Belfeth 4001>,<Kilic Arslan 51>,uncle (paternal)
+<Anonymi 14122>,<Georgios 14102>,son
+<Kale 105>,<Demetrios 123>,wife
+<Nikephoros 62>,<Ioannes 61>,brother
+<Nikephoros 62>,<Anonymus 195>,son
+<Nikephoros 62>,<Romanos 4>,brother
+<Nikephoros 62>,<Nikephoros 117>,ancestor (grandfather)
+<Nikephoros 62>,<Anonymus 61>,father
+<Nikephoros 62>,<Anna 64>,son
+<Nikephoros 62>,<Anonyma 105>,kin (not by blood)
+<Konstantinos 20319>,<Isaakios 2>,cousin (first)
+<Kale 108>,<Belkonas 102>,wife
+<Kyrillos 106>,<Michael 223>,brother
+<Kyrillos 106>,<Anonymus 584>,father
+<Kyrillos 106>,<Anonyma 195>,father
+<Kyrillos 106>,<Anonymus 600>,uncle
+<Ioannes 117>,<Maria 105>,son
+<Ioannes 117>,<Gregorios 106>,cousin
+<Ioannes 117>,<Alexios 1>,nephew
+<Galabatzes 15001>,<Tzachas 61>,nephew
+<Stanilas 101>,<Martha 102>,husband
+<Stanilas 101>,<Elizabeth 101>,father
+<Stanilas 101>,<Akindynos 103>,father
+<Stanilas 101>,<Petros 116>,grandson
+<Stanilas 101>,<Nikolaos 126>,father
+<Stanilas 101>,<Basileios 141>,son
+<Stanilas 101>,<Ioannes 193>,father
+<Godfrey 4004>,<Ida 4001>,brother
+<Godfrey 4004>,<Godfrey 51>,uncle
+<Anonymus 2542>,<Ioannes 289>,kin
+<Eirene 20117>,<Eirene 61>,grandmother
+<Eirene 20117>,<Ioannes 62>,wife
+<Eirene 20117>,<Ioannes 65>,grandmother
+<Eirene 20117>,<Andronikos 61>,mother
+<Eirene 20117>,<Konstantinos 10>,sister-in-law
+<Eirene 20117>,<Leon 2103>,daughter (eldest)
+<Eirene 20117>,<Konstantinos 61>,mother
+<Eirene 20117>,<Anonymi 2106>,mother
+<Eirene 20117>,<Michael 121>,grandmother
+<Chryse 102>,<Nikolaos 140>,wife
+<Andronikos 119>,<Ioannes 469>,brother
+<Andronikos 119>,<Manuel 1>,cousin
+<Andronikos 119>,<Konstantinos 17001>,son
+<Anonyma 109>,<Konstantinos 105>,wife
+<Anonyma 109>,<Romanos 3>,sister
+<Chryse 103>,<Dobrotas 105>,wife
+<Anonymae 6001>,<Eirene 65>,daughter
+<Anonymae 6001>,<Alexios 1>,niece
+<Anonymae 6001>,<Isaakios 61>,daughter
+<Anonymae 6001>,<Anonymi 6074>,wife
+<Gregorios 105>,<Eirene 25002>,husband
+<Gregorios 105>,<Ioannes 25008>,father
+<Gregorios 105>,<Andronikos 112>,father
+<Aspan 101>,<Ibrahim Yinal 101>,half-brother
+<Anonymae 6002>,<Anonymi 6073>,wife
+<Anonyma 6006>,<Romanos 3>,niece
+<Anonyma 6006>,<Poulcheria 101>,daughter
+<Anonyma 6006>,<Konstantinos 9>,wife (second)
+<Anonyma 6006>,<Maria 64>,aunt
+<Anonyma 6006>,<Basileios 103>,daughter
+<Theodosios 101>,<Konstantinos 9>,cousin
+<Anonymus 848>,<Ilghazi 4001>,son
+<Romanos 12102>,<Theophylaktos 12101>,father
+<Romanos 12102>,<Eirene 12102>,husband
+<Anonyma 6003>,<Isaakios 20103>,mother
+<Anonyma 6003>,<Bagrat 101>,mother
+<Anonyma 6003>,<Georgios 105>,wife
+<Stephanos 101>,<Michael 5>,father
+<Stephanos 101>,<Ioannes 68>,brother
+<Stephanos 101>,<Michael 4>,brother-in-law
+<Mujir al-Din 101>,<Anar 101>,son-in-law
+<Mujir al-Din 101>,<Anonyma 253>,husband
+<Eirene 64>,<Andronikos 108>,wife
+<Eirene 64>,<Eirene 61>,daughter-in-law
+<Stephanos 2101>,<Ioannes 2106>,grandfather
+<Stephanos 2101>,<Anonyma 2105>,father
+<Stephanos 2101>,<Anonymus 2117>,father-in-law
+<Stephanos 2101>,<Anonyma 2104>,husband
+<Theodosios 103>,<Anonymus 200>,father
+<Theodosios 103>,<Konstantinos 9>,father
+<Theodosios 103>,<Anonymus 199>,son
+<Georgios 105>,<Bagrat 101>,father
+<Georgios 105>,<Maria 103>,husband
+<Georgios 105>,<Anonyma 6003>,husband
+<Georgios 105>,<Alde 101>,husband
+<Ioannes 470>,<Andronikos 108>,son
+<Ioannes 470>,<Manuel 1>,cousin
+<Eirene 63>,<Eirene 61>,daughter-in-law
+<Eirene 63>,<Isaakios 102>,wife
+<Anonymus 2491>,<Michael 61>,kin
+<Theodote 103>,<Helena 115>,cousin
+<Theodote 103>,<Demetrios 148>,mother
+<Theodote 103>,<Georgios 191>,daughter
+<Eirene 62>,<Laszlo 51>,daughter
+<Eirene 62>,<Anonymi 186>,mother
+<Eirene 62>,<Eirene 61>,daughter-in-law
+<Eirene 62>,<Ioannes 2>,wife
+<Kyranna 101>,<Romanos 107>,wife
+<Romanos 104>,<Anonymus 2388>,grandson
+<Romanos 104>,<Anonymus 2386>,grandfather
+<Romanos 104>,<Anonymus 2387>,son
+<Romanos 104>,<Maria 64>,brother
+<Euboulos 15001>,<Anonyma 15009>,husband
+<Styliane 2101>,<Anonyma 2119>,daughter
+<Styliane 2101>,<Michael 61>,daughter
+<Sophia 12101>,<Konstantinos 12102>,wife
+<Sophia 12101>,<Anna 12103>,mother
+<Sophia 12101>,<Michael 12105>,daughter
+<Kilic Arslan 51>,<Anonyma 15023>,brother
+<Kilic Arslan 51>,<Belfeth 4001>,nephew
+<Kilic Arslan 51>,<Sulayman 5000>,son
+<Kilic Arslan 51>,<Tzachas 61>,son-in-law
+<Kilic Arslan 51>,<Anonyma 4003>,husband
+<Anonymi 11001>,<Gregorios 61>,spiritual brother
+<Theodote 104>,<Basileios 186>,wife
+<Theodote 104>,<Demetrios 148>,daughter
+<Anonymae 11001>,<Anonymi 11004>,wife
+<Anonymae 11001>,<Anonyma 11001>,daughter
+<Theodora 25001>,<Nikephoros 25001>,mother
+<Theodora 25001>,<Ioannes 17007>,wife
+<Konstantinos 15019>,<Alexios 1>,kin
+<Barbara 102>,<Basileios 142>,daughter
+<Anonymi 12106>,<Anonyma 12128>,children
+<Anonymus 11001>,<Chosrienes 11001>,brother
+<Anonymus 11001>,<Gregorios 61>,father
+<Theodoulos 102>,<Anonyma 106>,father
+<Anonymus 12189>,<Anonymus 12188>,son (from first marriage)
+<Anonymus 12189>,<Anonyma 12127>,son
+<Euphrosyne 20101>,<Isaakios 2>,sister-in-law
+<Anonymi 11004>,<Anonymae 11001>,husband
+<Godfrey 26102>,<William 4015>,brother
+<Gregorios 108>,<Adrianos 102>,nephew
+<Gregorios 108>,<Nikephoros 116>,nephew
+<Anonymi 25008>,<Leon 17002>,kin (by blood)
+<Xene 101>,<Alexios 1>,sister
+<Xene 101>,<Konstantinos 181>,wife
+<Franco 4001>,<Sigemar 4001>,kin
+<Franco 4001>,<Henry 4001>,kin (by blood)
+<Andronikos 109>,<Eirene 20115>,husband
+<Andronikos 109>,<Ioannes 17006>,father
+<Andronikos 109>,<Alexios 25003>,father
+<Andronikos 109>,<Maria 17005>,father
+<Andronikos 109>,<Manuel 1>,brother
+<Andronikos 109>,<Ioannes 2>,son
+<Andronikos 109>,<Alexios 103>,brother
+<Andronikos 109>,<Isaakios 103>,brother
+<Andronikos 61>,<Anna 63>,father
+<Andronikos 61>,<Maria 62>,husband
+<Andronikos 61>,<Eirene 61>,father
+<Andronikos 61>,<Ioannes 65>,father
+<Andronikos 61>,<Andronikos 2102>,grandson
+<Andronikos 61>,<Ioannes 62>,son
+<Andronikos 61>,<Eirene 20117>,son (elder)
+<Andronikos 61>,<Michael 7>,cousin
+<Andronikos 61>,<Konstantinos 61>,brother (elder)
+<Andronikos 61>,<Michael 121>,father
+<Andronikos 61>,<Konstantios 61>,cousin
+<Andronikos 61>,<Andronikos 62>,cousin
+<Andronikos 61>,<Theodora 5001>,father
+<Manuel 1>,<Anonymus 989>,kin
+<Manuel 1>,<Alexios 109>,cousin
+<Manuel 1>,<Isaakios 107>,cousin
+<Manuel 1>,<Eudokia 17001>,uncle
+<Manuel 1>,<Alexios 25004>,uncle
+<Manuel 1>,<Alexios 17008>,uncle
+<Manuel 1>,<Ioannes 469>,cousin
+<Manuel 1>,<Andronikos 1>,cousin
+<Manuel 1>,<Alexios 17005>,cousin
+<Manuel 1>,<Alexios 1>,grandson
+<Manuel 1>,<Maria 17002>,father
+<Manuel 1>,<Anna 25001>,brother
+<Manuel 1>,<Ioannes 17012>,relative by marriage
+<Manuel 1>,<Anna 62>,nephew
+<Manuel 1>,<Alexios 2>,father
+<Manuel 1>,<Manuel 25001>,brother-in-law
+<Manuel 1>,<Ioannes 470>,cousin
+<Manuel 1>,<Andronikos 17007>,cousin
+<Manuel 1>,<Katae 17001>,uncle
+<Manuel 1>,<Andronikos 109>,brother
+<Manuel 1>,<Andronikos 119>,cousin
+<Manuel 1>,<Andronikos 17004>,uncle
+<Manuel 1>,<Nikephoros 17004>,uncle of wife
+<Manuel 1>,<Ioannes 17006>,uncle
+<Manuel 1>,<Anonymi 155>,relative by marriage
+<Manuel 1>,<Theodora 17001>,uncle
+<Manuel 1>,<Anna 17001>,father
+<Manuel 1>,<Bela 53>,father-in-law (designate)
+<Manuel 1>,<Andronikos 112>,kin
+<Manuel 1>,<Ioannes 17007>,cousin
+<Manuel 1>,<Conrad 53>,kin
+<Manuel 1>,<Isaakios 102>,nephew
+<Manuel 1>,<Anonymus 992>,uncle
+<Manuel 1>,<Ioannes 2>,son
+<Manuel 1>,<Theodora 17002>,uncle
+<Manuel 1>,<Maria 63>,husband
+<Manuel 1>,<Andronikos 108>,nephew
+<Manuel 1>,<Isaakios 103>,brother
+<Manuel 1>,<Maria 168>,brother
+<Manuel 1>,<Stephanos 54>,relative by marriage
+<Manuel 1>,<Ioannes 306>,brother-in-law
+<Manuel 1>,<Joseph 17001>,uncle
+<Manuel 1>,<Ioannes 17008>,Sibling of parent of spouse
+<Manuel 1>,<Konstantinos 17001>,nephew
+<Manuel 1>,<Ioannes 25002>,cousin
+<Manuel 1>,<Alexios 111>,uncle
+<Manuel 1>,<Ioannes 392>,uncle
+<Manuel 1>,<Andronikos 20146>,uncle
+<Manuel 1>,<Stephanos 17003>,brother-in-law
+<Manuel 1>,<Theodoros 17002>,brother-in-law
+<Manuel 1>,<Anonymi 17002>,brother-in-law
+<Manuel 1>,<Andronikos 17010>,uncle
+<Manuel 1>,<Alexios 25003>,uncle
+<Manuel 1>,<Theodora 25002>,brother
+<Manuel 1>,<Maria 17003>,uncle
+<Manuel 1>,<Alexios 25002>,cousin
+<Manuel 1>,<Ioannes 25006>,uncle
+<Manuel 1>,<Eirene 66>,husband
+<Manuel 1>,<Eirene 17003>,uncle
+<Martha 102>,<Stanilas 101>,wife
+<Georgios 204>,<Eirene 137>,husband
+<Georgios 204>,<Ioannes 316>,son
+<Georgios 204>,<Maria 153>,father
+<Maure 101>,<Ioannes 192>,daughter-in-law
+<Isaakios 1>,<Maria 101>,father
+<Isaakios 1>,<Isaakios 61>,uncle
+<Isaakios 1>,<Ioannes 63>,brother
+<Isaakios 1>,<Anna 61>,brother-in-law
+<Isaakios 1>,<Manuel 119>,son
+<Isaakios 1>,<Maria 169>,son
+<Isaakios 1>,<Theodoros 101>,uncle
+<Isaakios 1>,<Konstantinos 10>,kin
+<Isaakios 1>,<Aikaterine 101>,husband
+<Isaakios 1>,<Anonymus 2294>,uncle
+<Isaakios 1>,<Michael 6>,son (adopted)
+<Isaakios 1>,<Manuel 101>,father
+<Isaakios 1>,<Manuel 61>,uncle
+<Isaakios 1>,<Alexios 1>,uncle
+<Isaakios 1>,<Anonymus 7034>,uncle
+<Aniketos 101>,<Kosmas 103>,father
+<Romanos 107>,<Nikolaos 173>,brother
+<Romanos 107>,<Gabriloba 101>,son
+<Romanos 107>,<Gabrilas 101>,son
+<Romanos 107>,<Basileios 156>,son
+<Romanos 107>,<Kyranna 101>,husband
+<Romanos 107>,<Georgios 159>,son
+<Anastaso 101>,<Eirene 131>,sister
+<Anastaso 101>,<Sophia 104>,sister
+<Anastaso 101>,<Michael 202>,sister-in-law
+<Theophano 12102>,<Theophylaktos 12101>,unrelated by blood
+<Theophano 12102>,<Ioannes 12104>,daughter
+<Theophano 12102>,<Theophano 12103>,cousin (second)
+<Konstantinos 12102>,<Sophia 12101>,husband
+<Andronikos 1>,<David 20103>,grandfather
+<Andronikos 1>,<Theodora 17002>,lover
+<Andronikos 1>,<Anonymi 17001>,father
+<Andronikos 1>,<Manuel 1>,cousin
+<Andronikos 1>,<Manuel 20121>,father
+<Konstantinos 284>,<Eirene 61>,brother
+<Georgios 151>,<Eustathios 109>,son
+<Georgios 151>,<Theodoros 146>,brother
+<Georgios 151>,<Asana 101>,husband
+<Andronikos 118>,<Anna 62>,son
+<Christodoulos 101>,<Theodosios 14102>,spiritual father
+<Christodoulos 101>,<Epiphanios 14102>,spiritual father
+<Christodoulos 101>,<Anonymi 14118>,spiritual brother
+<Christodoulos 101>,<Theophanes 14101>,uncle
+<Christodoulos 101>,<Ioannes 14108>,uncle
+<Christodoulos 101>,<Epiphanios 14101>,uncle
+<Christodoulos 101>,<Georgios 14102>,spiritual father
+<Konstantinos 285>,<Anna 62>,son
+<Anonyma 253>,<Anar 101>,daughter
+<Anonyma 253>,<Mujir al-Din 101>,wife
+<Epiphanios 14101>,<Christodoulos 101>,nephew
+<Anonyma 161>,<Sophia 104>,mother
+<Anonyma 161>,<Michael 202>,mother-in-law
+<Alp Arslan 51>,<Anonyma 102>,father
+<Belkonas 102>,<Stephanos 125>,father
+<Belkonas 102>,<Paulos 110>,brother
+<Belkonas 102>,<Kale 108>,husband
+<Belkonas 102>,<Stephanos 124>,son
+<Georgios 25002>,<Euthymios 25001>,cousin
+<Georgios 25002>,<Demetrios 152>,brother
+<Georgios 25002>,<Anonyma 25015>,son
+<Georgios 25002>,<Leon 25002>,brother
+<Georgios 25002>,<Anonymus 25070>,brother
+<Georgios 25002>,<Anonymus 265>,nephew (by marriage)
+<Konstantinos 120>,<Michael 11>,nephew
+<Konstantinos 120>,<Anonymi 2114>,father
+<Konstantinos 120>,<Anonyma 2120>,husband
+<Konstantinos 120>,<Nikephoros 111>,brother
+<Konstantinos 120>,<Anonyma 2103>,son
+<Konstantinos 120>,<Anonymus 2283>,father
+<Konstantinos 120>,<Eudokia 1>,cousin
+<Konstantinos 120>,<Anonyma 2139>,husband
+<Konstantinos 120>,<Anonymus 2105>,son
+<Konstantinos 120>,<Michael 7>,relative (maternal)
+<Konstantinos 120>,<Michael 61>,spiritual nephew
+<Georgios 157>,<Stephanos 126>,father
+<Alexios 110>,<Eudokia 111>,son
+<Georgios 158>,<Stephanos 126>,son
+<Georgios 158>,<Theophano 102>,husband
+<Georgios 20253>,<Konstantinos 102>,son
+<Maria 171>,<Anna 62>,daughter
+<Georgios 159>,<Romanos 107>,son
+<Joscelin 4003>,<Beatrice 4001>,son
+<Joscelin 4003>,<Joscelin 4002>,son
+<Konstantinos 286>,<Eirene 61>,son-in-law
+<Nikephoros 175>,<Klemes 113>,spiritual son
+<Nikephoros 175>,<Maria 168>,grandson
+<Nikephoros 175>,<Abramios 105>,spiritual son
+<Anonymus 422>,<Euphrosyne 103>,cousin
+<Kyriakos 121>,<Basileios 197>,son
+<Anonymus 113>,<Romanos 4>,son
+<Anonymus 113>,<Anonyma 102>,husband
+<Anna 112>,<Zakchaios 101>,wife
+<Anonymus 12224>,<Anonyma 12139>,husband
+<Ioannes 138>,<Anonymus 282>,cousin
+<Dobrana 103>,<Nikolaos 142>,wife
+<Anonymus 2613>,<Nikolaos 2106>,uncle
+<Michael 223>,<Kyrillos 106>,brother
+<Anonymus 12122>,<Anonyma 12104>,husband
+<Anonymus 12122>,<Anonyma 12105>,father
+<Leon 2103>,<Anonyma 2109>,husband
+<Leon 2103>,<Anonymi 2106>,father
+<Leon 2103>,<Eirene 20117>,father
+<Anonymae 106>,<Traulos 101>,sister
+<Euprepeia 61>,<Konstantinos 9>,sister
+<Euprepeia 61>,<Leon 61>,cousin
+<Anonymus 2466>,<Michael 61>,kin
+<Anonymus 2129>,<Ioannes 289>,uncle
+<Ignatios 117>,<Konstantinos 10>,brother
+<Nikephoros 64>,<Zoe 101>,step-brother
+<Nikephoros 64>,<Michael 7>,brother
+<Nikephoros 64>,<Leon 15005>,brother
+<Nikephoros 64>,<Adrianos 102>,brother-in-law
+<Nikephoros 64>,<Romanos 4>,son
+<Nikephoros 64>,<Eudokia 1>,son
+<Anonymus 20247>,<Anonyma 20103>,father
+<Nikephoros 111>,<Michael 11>,nephew
+<Nikephoros 111>,<Eudokia 1>,cousin
+<Nikephoros 111>,<Anonymus 2105>,son
+<Nikephoros 111>,<Konstantinos 120>,uncle
+<Leon 135>,<Georgios 169>,father-in-law
+<Leon 135>,<Georgios 167>,father-in-law
+<Leon 135>,<Theosostos 101>,brother
+<Anonymus 125>,<Kutulmush 101>,kin
+<Anonymus 125>,<Anonymi 110>,kin
+<Anonymus 125>,<Anonymus 130>,son
+<Michael 12105>,<Helena 12101>,father
+<Michael 12105>,<Sophia 12101>,father
+<Michael 12105>,<Theophano 12103>,great grandfather
+<Guy 4004>,<Bohemond 61>,brother
+<Guy 4004>,<Anonyma 4004>,brother
+<Guy 4004>,<Anonyma 214>,husband
+<Guy 4004>,<Robert 61>,son
+<Kale 12101>,<Kosmas 12101>,mother
+<Kale 12101>,<Anna 12101>,step-sister
+<Anonymi 155>,<Manuel 1>,relative by marriage
+<David 109>,<Senachereim 101>,son
+<David 109>,<Anonyma 159>,father
+<Demetrios 158>,<Maria 164>,father
+<Demetrios 158>,<Ioannes 384>,father
+<Demetrios 158>,<Photeinos 107>,son
+<Bohemond 61>,<Roger 17001>,kin (by blood)
+<Bohemond 61>,<Anonyma 239>,brother
+<Bohemond 61>,<Bohemond 26101>,father (spiritual)
+<Bohemond 61>,<Guy 4004>,brother
+<Bohemond 61>,<Philippos 4001>,son-in-law
+<Bohemond 61>,<Emma 101>,brother
+<Bohemond 61>,<Anonyma 4004>,brother
+<Bohemond 61>,<Richard 4001>,uncle (paternal)
+<Bohemond 61>,<Anonymus 883>,cousin
+<Bohemond 61>,<Tancred 61>,uncle
+<Bohemond 61>,<Anonymus 15086>,uncle
+<Bohemond 61>,<Roger 4003>,"brother (in fact, nephew)"
+<Bohemond 61>,<Robert 61>,son
+<Bohemond 61>,<Bohemond 17001>,father
+<Bohemond 61>,<Ioannes 495>,father
+<Bohemond 61>,<Anonyma 4001>,brother
+<Bohemond 61>,<Constance 4001>,husband
+<Fulk 4001>,<Bertrada 4001>,son
+<Fulk 4001>,<Baldwin 53>,father
+<Fulk 4001>,<Baldwin 52>,son-in-law
+<Fulk 4001>,<Raymond 4004>,uncle (maternal)
+<Fulk 4001>,<Melisende 4002>,husband
+<Fulk 4001>,<Fulk 4002>,son
+<Fulk 4001>,<Amalric 51>,father
+<Fulk 4001>,<Thierry 4001>,father-in-law
+<Fulk 4001>,<Cecilia 4001>,half-brother
+<Nikephoros 115>,<Manuel 61>,brother-in-law
+<Nikephoros 115>,<Alexios 1>,brother-in-law
+<Nikephoros 115>,<Anonymus 5011>,son
+<Nikephoros 115>,<Eudokia 108>,husband
+<Fulk 4002>,<Bertrada 4001>,husband
+<Fulk 4002>,<Fulk 4001>,father
+<Nikephoros 116>,<Alexios 20125>,father
+<Nikephoros 116>,<Alexios 1>,brother
+<Nikephoros 116>,<Ioannes 63>,son (youngest)
+<Nikephoros 116>,<Anna 61>,son
+<Nikephoros 116>,<Gregorios 108>,uncle
+<Anonymus 20248>,<Isaakios 20103>,father-in-law
+<Gabriel 4001>,<Morphia 4001>,father
+<Gabriel 4001>,<Baldwin 52>,father-in-law
+<Anonymus 130>,<Anonymus 125>,father
+<Anonymus 15046>,<Leon 177>,father
+<Samuel 109>,<Nikephoros 168>,father
+<Ioannes 155>,<Deadole 101>,husband
+<Ioannes 155>,<Kyriakos 104>,son
+<Aaron 101>,<Alousianos 101>,father (brother)
+<Aaron 101>,<Theodoros 173>,father
+<Aaron 101>,<Aikaterine 101>,brother
+<Aaron 101>,<Prousianos 101>,brother
+<Aaron 101>,<Vladislav 101>,son
+<Kosmas 12101>,<Maria 12103>,husband (betrothed)
+<Kosmas 12101>,<Kale 12101>,son
+<Anonymus 12256>,<Andronikos 12101>,father-in-law (joint)
+<Anonymus 12256>,<Anonyma 12147>,father
+<Anonymus 12256>,<Anonymus 12258>,father
+<Anonymus 493>,<Lazaros 104>,uncle
+<Anonymus 2117>,<Anonyma 2104>,son-in-law
+<Abimelech 101>,<Kutulmush 101>,brother
+<Anonyma 205>,<Nikephoros 160>,wife (first)
+<Anonymus 265>,<Georgios 25002>,uncle
+<Anonymus 265>,<Theophylaktos 105>,nephew
+<Anna 20121>,<Isaakios 102>,daughter
+<Ioannes 2106>,<Anonymus 2119>,son
+<Ioannes 2106>,<Anonyma 2104>,grandson
+<Ioannes 2106>,<Stephanos 2101>,grandson
+<Shahan-Shah 17001>,<Kilic Arslan 52>,brother
+<Nikolaos 2106>,<Anonymus 2613>,nephew
+<Nikolaos 2106>,<Konstantinos 9>,kin
+<Andronikos 2102>,<Andronikos 61>,grandfather
+<Pardos 101>,<Georgios 165>,son
+<Iveta 4001>,<Morphia 4001>,daughter
+<Iveta 4001>,<Baldwin 52>,daughter
+<Iveta 4001>,<Melisende 4002>,kin
+<William 4020>,<Beatrice 4001>,husband (first)
+<William 4020>,<Garenton 4001>,brother
+<Anonymus 2179>,<Michael 61>,kin
+<Ioannes 247>,<Eirene 122>,husband
+<Ioannes 247>,<Nikephoros 133>,son-in-law
+<Mitze 101>,<Leon 157>,wife
+<Mitze 101>,<Petros 132>,daughter
+<Anna 61>,<Isaakios 1>,sister-in-law
+<Anna 61>,<Eirene 65>,mother-in-law
+<Anna 61>,<Anna 62>,grandmother
+<Anna 61>,<Eirene 61>,mother-in-law
+<Anna 61>,<Adrianos 102>,mother
+<Anna 61>,<Anonyma 5003>,daughter
+<Anna 61>,<Maria 62>,relative by marriage
+<Anna 61>,<Alexios 1>,mother
+<Anna 61>,<Alexios 5001>,daughter
+<Anna 61>,<Anonyma 8106>,grandmother
+<Anna 61>,<Isaakios 61>,mother
+<Anna 61>,<Nikephoros 116>,mother
+<Anna 61>,<Anonymus 15024>,grandmother of betrothed
+<Anna 61>,<Theodora 106>,mother
+<Anna 61>,<Eudokia 108>,mother
+<Anna 61>,<Maria 105>,mother
+<Anna 61>,<Manuel 61>,mother
+<Anna 61>,<Ioannes 63>,wife
+<Anna 61>,<Ioannes 2>,grandmother
+<Robert 17001>,<Roger 17001>,nephew
+<Robert 17001>,<William 17003>,brother
+<Anonymus 17029>,<Roger 17001>,son
+<Raymond 17001>,<Anonymi 213>,father
+<Raymond 17001>,<Anonymus 17002>,brother
+<Raymond 17001>,<Eleanor 101>,uncle
+<Raymond 17001>,<William 4021>,brother
+<Raymond 17001>,<Constance 4002>,husband
+<Raymond 17001>,<Henry 4003>,brother
+<Raymond 17001>,<Maria 63>,father
+<Raymond 17001>,<Philippa 17001>,father
+<Raymond 17001>,<William 4014>,son
+<Henry 54>,<Henry 55>,father
+<Henry 54>,<Adelbero 26101>,close relation
+<Henry 54>,<William 4014>,kin
+<Anonymus 272>,<Michael 61>,brother
+<Anonyma 2101>,<Ioannes 18>,mother
+<Eudokia 12101>,<Nikolaos 12103>,wife
+<Eudokia 12101>,<Anna 12101>,daughter
+<Anonymus 17024>,<Conrad 53>,brother (elder)
+<Anonymus 17024>,<Henry 55>,son
+<Anonymus 17024>,<Frederick 51>,father
+<Anonymus 273>,<Anonymus 274>,grandfather (paternal)
+<Anonymus 274>,<Anonymus 282>,son
+<Anonymus 274>,<Anonymus 273>,grandson
+<Anonymus 274>,<Demetrios 105>,grandson
+<Anonymus 274>,<Anonymus 288>,father
+<Anonymus 274>,<Anonyma 118>,son
+<Anonymus 274>,<Anonymi 138>,father
+<Anonymus 274>,<Nikoulitzas 101>,father-in-law of child
+<Simon 102>,<Baldwin 51>,nephew
+<Anonymus 883>,<Bohemond 61>,cousin
+<Alfonso 57>,<Constance 101>,father
+<Anonyma 219>,<Ioannes 459>,mother
+<Usama 101>,<Anonymae 107>,husband
+<Usama 101>,<Khitam 101>,cousin
+<Usama 101>,<Muhammad 102>,brother
+<Usama 101>,<Yahya 101>,cousin
+<Usama 101>,<Murshid  101>,son
+<Usama 101>,<Anonymi 192>,father
+<Usama 101>,<Sultan  101>,nephew
+<Usama 101>,<Ali 102>,brother
+<Usama 101>,<Murhaf  101>,father
+<Philippa 17001>,<Raymond 17001>,daughter
+<Philippa 17001>,<Maria 63>,sister
+<Philippa 17001>,<Baldwin 104>,sister
+<Eustace 4002>,<Baldwin 51>,father
+<Eustace 4002>,<Godfrey 51>,father
+<Paulos 110>,<Belkonas 102>,brother
+<Paulos 110>,<Neanga 101>,husband
+<Anonymus 200>,<Theodosios 103>,son
+<Anonyma 12148>,<Andronikos 12101>,daughter
+<Anonyma 12148>,<Anonymus 12258>,wife
+<Paulos 112>,<Basileios 160>,father
+<Paulos 112>,<Theodoros 154>,father
+<Paulos 112>,<Anonymus 356>,son
+<Paulos 112>,<Maria 119>,husband
+<Anonymi 25003>,<Manuel 25001>,children
+<Theodoros 222>,<Theoktistos 107>,spiritual father
+<Theodoros 222>,<Nikephoros 167>,spiritual father
+<Anonymus 282>,<Anonymus 274>,father
+<Anonymus 282>,<Ioannes 138>,cousin
+<William Jordan 4001>,<Raymond 61>,nephew
+<William Jordan 4001>,<Bertrand 4001>,kin (in fact cousin)
+<Stephanos 162>,<Eirene 61>,brother
+<Anastasios 2101>,<Nikolaos 2104>,nephew
+<Anastasios 2101>,<Anonyma 2145>,son
+<Anastasios 2101>,<Anonyma 2149>,husband
+<Henry 4001>,<Fredelo 26101>,son
+<Henry 4001>,<Sigemar 4001>,kin (by blood)
+<Henry 4001>,<Godfrey 4003>,brother
+<Henry 4001>,<Franco 4001>,kin (by blood)
+<Bardas 101>,<Ioannes 18>,nephew
+<Anonymus 288>,<Anonymi 138>,brother
+<Anonymus 288>,<Anonymus 274>,son
+<Radomir 101>,<Eirene 101>,husband
+<Radomir 101>,<Petros 102>,father
+<Radomir 101>,<Samuel 103>,son
+<Sulayman 5000>,<Kutulmush 101>,son
+<Sulayman 5000>,<Gumushtegin 101>,nephew
+<Sulayman 5000>,<Kilic Arslan 51>,father
+<Sulayman 5000>,<Mansur 5000>,brother
+<Leon 15005>,<Eudokia 1>,son
+<Leon 15005>,<Michael 7>,brother
+<Leon 15005>,<Nikephoros 64>,brother
+<Leon 15005>,<Romanos 4>,son
+<Toros 101>,<Roupen 101>,son
+<Sultan  101>,<Usama 101>,uncle
+<Sultan  101>,<Murshid  101>,brother
+<Apasios 11002>,<Achsartanes 11001>,brother
+<Konstantinos 17001>,<Isaakios 107>,father
+<Konstantinos 17001>,<Ioannes 469>,father
+<Konstantinos 17001>,<Theodora 107>,husband
+<Konstantinos 17001>,<Alexios 109>,father
+<Konstantinos 17001>,<Anonymus 17037>,brother
+<Konstantinos 17001>,<Manuel 1>,uncle
+<Konstantinos 17001>,<Andronikos 119>,father
+<Charitza 101>,<Nikolaos 136>,mother
+<Eirene 20115>,<Andronikos 109>,wife
+<Eirene 20115>,<Alexios 25003>,mother
+<Anna 155>,<Andronikos 108>,daughter
+<William 4016>,<Bohemond 17001>,uncle (paternal)
+<Basileia 101>,<Ioannes 194>,wife
+<Agathe 104>,<Romanos 1>,daughter
+<Agathe 104>,<Romanos 110>,wife
+<Kale 122>,<Ioannes 242>,wife
+<Georgios 25001>,<Zoe 25001>,husband
+<Georgios 25001>,<Anna 25002>,daughter
+<Anonymus 695>,<Anonyma 15014>,father
+<Leon 61>,<Anonymus 186>,kin
+<Leon 61>,<Ioannes 113>,son-in-law
+<Leon 61>,<Konstantinos 9>,kin
+<Leon 61>,<Anonymus 188>,kin
+<Leon 61>,<Euprepeia 61>,cousin
+<Leon 61>,<Marianos 102>,kin
+<Leon 61>,<Theodoros 104>,kin
+<Photeine 101>,<Nikolaos 133>,wife
+<Anonyma 25006>,<Alexios 25002>,wife
+<Anonyma 25013>,<Adrianos 25001>,wife
+<Maria 105>,<Ioannes 63>,daughter (eldest)
+<Maria 105>,<Michael 136>,wife
+<Maria 105>,<Alexios 101>,sister (elder)
+<Maria 105>,<Alexios 1>,sister
+<Maria 105>,<Ioannes 2>,aunt
+<Maria 105>,<Anna 61>,daughter
+<Maria 105>,<Ioannes 117>,mother
+<William 4021>,<Raymond 17001>,brother
+<William 4021>,<Eleanor 101>,father
+<Eudokia 101>,<Basileios 2>,niece
+<Eudokia 101>,<Konstantinos 8>,daughter (eldest)
+<Eudokia 101>,<Theodora 1>,sister
+<Eudokia 101>,<Zoe 1>,sister
+<Eudokia 101>,<Helena 103>,daughter (eldest)
+<Ioannes 195>,<Lazaros 102>,father
+<Alphonse 4001>,<Raymond 61>,son
+<Alphonse 4001>,<Anonyma 4007>,son
+<Anonyma 4001>,<Bohemond 61>,sister
+<Laszlo 51>,<Eirene 62>,father
+<Laszlo 51>,<Almouzes 17001>,father
+<Laszlo 51>,<Stephanos 52>,father
+<Anonyma 4011>,<Leon 17002>,sister
+<Anonyma 4011>,<Joscelin 4002>,mother
+<Michael 12103>,<Nikolaos 12101>,son
+<Anonymae 105>,<Mousaraph 101>,daughter
+<Mera 103>,<Theodoros 146>,wife
+<Demetrios 127>,<Petros 118>,brother
+<Demetrios 127>,<Anonyma 155>,brother
+<Demetrios 127>,<Ioannitzes 101>,father
+<Demetrios 127>,<Ioannes 222>,father
+<Demetrios 127>,<Ioannes 221>,son
+<Demetrios 127>,<Malka 101>,husband
+<Symeon 132>,<Athanasios 105>,spiritual son
+<Demetria 101>,<Ioannes 196>,wife
+<Ioannes 194>,<Nikolaos 127>,son-in-law
+<Ioannes 194>,<Ioannilos 102>,husband of sister of wife
+<Ioannes 194>,<Basileia 101>,husband
+<Ioannes 194>,<Dragna 101>,father
+<Ioannes 194>,<Kyriake 101>,father
+<Anonymus 359>,<Basileios 151>,son
+<Michael 5>,<Anonymi 6008>,nephew
+<Michael 5>,<Anonymi 6021>,kin
+<Michael 5>,<Zoe 1>,son (adopted)
+<Michael 5>,<Maria 104>,son
+<Michael 5>,<Ioannes 68>,nephew
+<Michael 5>,<Stephanos 101>,son
+<Michael 5>,<Michael 4>,nephew
+<Michael 5>,<Konstantinos 64>,nephew
+<Anna 25003>,<Zoe 25001>,mother
+<Anna 25003>,<Isaakios 61>,daughter (eldest)
+<Michael 6>,<Michael 119>,uncle
+<Michael 6>,<Isaakios 1>,father (adoptive)
+<Anonymi 17012>,<Theodora 17002>,children
+<Anonymi 17012>,<Andronikos 1>,children
+<Traulos 101>,<Anonymae 106>,brother
+<Traulos 101>,<Anonyma 213>,husband
+<Traulos 101>,<Anonyma 15014>,husband
+<Anna 106>,<Kosmas 103>,daughter
+<Anonyma 2109>,<Leon 2103>,wife
+<Demetrios 103>,<Theophylaktos 105>,brother
+<Theophylaktos 12101>,<Theophano 12102>,unrelated by blood
+<Theophylaktos 12101>,<Eirene 12102>,son
+<Theophylaktos 12101>,<Ioannes 12104>,son-in-law
+<Theophylaktos 12101>,<Romanos 12102>,son
+<Theophylaktos 12101>,<Theophano 12103>,cousin (second)
+<Renaud 4002>,<Richard 4001>,brother
+<Michael 11>,<Anonymus 2104>,son (youngest)
+<Michael 11>,<Konstantinos 120>,uncle
+<Michael 11>,<Nikephoros 111>,uncle
+<Michael 11>,<Anonymus 2105>,brother (younger)
+<Michael 11>,<Eudokia 1>,uncle
+<Michael 11>,<Anonyma 2102>,son (youngest)
+<Eustace 4001>,<Baldwin 51>,brother
+<Eustace 4001>,<Baldwin 52>,kin
+<Eustace 4001>,<Godfrey 51>,brother
+<Demetrios 105>,<Anonymus 274>,grandfather (maternal)
+<Sigemar 4001>,<Franco 4001>,kin
+<Sigemar 4001>,<Henry 4001>,kin (by blood)
+<Anonyma 2145>,<Anastasios 2101>,mother
+<Anonymus 2355>,<Ioannes 289>,brother
+<Demetrios 106>,<Nikoulitzas 101>,brother
+<Nikephoros 178>,<Anna 62>,brother-in-law
+<Nikephoros 178>,<Eirene 61>,son-in-law
+<Nikephoros 178>,<Alexios 1>,son-in-law
+<Nikephoros 178>,<Alexios 25002>,father
+<Nikephoros 178>,<Ioannes 2>,brother-in-law
+<Nikephoros 178>,<Konstantinos 123>,son
+<Nikephoros 178>,<Maria 146>,husband
+<Konstantinos 154>,<Rosanna 103>,husband
+<Anonymus 2356>,<Ioannes 289>,nephew
+<Theodora 20101>,<Michael 260>,wife
+<Theodora 20101>,<Alexios 3>,sister-in-law
+<Anonyma 210>,<Anonymus 6037>,daughter
+<Anonyma 210>,<Konstantinos 9>,lover
+<Anonyma 4006>,<Shams al-Dawla 26101>,mother
+<Anonyma 4006>,<Anonymi 26103>,mother
+<Senachereim 101>,<Atom 101>,father
+<Senachereim 101>,<David 109>,father
+<Senachereim 101>,<Maria 103>,father
+<William 110>,<Richard 4001>,father
+<Theophano 102>,<Georgios 158>,wife
+<Amer 102>,<Anonymus 161>,father
+<Amer 102>,<Anonyma 114>,husband
+<Anonymus 2480>,<Michael 61>,kin
+<Theophano 104>,<Michael 188>,wife
+<Anonyma 4007>,<Raymond 61>,wife
+<Anonyma 4007>,<Alphonse 4001>,mother
+<Demetrios 114>,<Maria 110>,son
+<Anonymi 25009>,<Adrianos 25001>,children
+<Romanos 106>,<Anna 102>,son
+<Romanos 106>,<Eustathios 105>,son
+<Rafi 101>,<Sinan 101>,nephew
+<Anonyma 2111>,<Theodote 2101>,daughter
+<Eudokia 112>,<Ioannes 2>,daughter-in-law
+<Eudokia 112>,<Alexios 103>,wife
+<Anonymus 734>,<Ioannes 459>,father
+<Georgios 165>,<Samuel 106>,father-in-law
+<Georgios 165>,<Galato 101>,father
+<Georgios 165>,<Pardos 101>,father
+<Ioannes 17008>,<Maria 17005>,husband
+<Ioannes 17008>,<Manuel 17003>,father
+<Ioannes 17008>,<Manuel 1>,Spouse of child of sibling
+<Anonyma 2120>,<Konstantinos 120>,wife (second)
+<Christophoros 109>,<Theodoros 207>,father
+<Georgios 167>,<Michael 181>,father
+<Georgios 167>,<Leon 135>,son-in-law
+<Georgios 167>,<Maria 130>,husband
+<Anonymus 294>,<Eustathios 105>,father
+<Ioannes 469>,<Isaakios 2>,uncle
+<Ioannes 469>,<Michael 20563>,father
+<Ioannes 469>,<Manuel 1>,cousin
+<Ioannes 469>,<Anonymus 669>,son
+<Ioannes 469>,<Alexios 20120>,father
+<Ioannes 469>,<Andronikos 119>,brother
+<Ioannes 469>,<Anonyma 208>,son
+<Ioannes 469>,<Alexios 3>,uncle
+<Ioannes 469>,<Konstantinos 17001>,son
+<Georgios 169>,<Leon 135>,son-in-law
+<Sinan 101>,<Rafi 101>,uncle
+<Sinan 101>,<Pinzarach 101>,brother-in-law
+<Sinan 101>,<Anonyma 211>,brother
+<Ioannes 216>,<Anonymus 352>,son
+<Anonymi 6021>,<Michael 5>,kin
+<Anna 108>,<Ioannes 196>,daughter
+<Anonymus 2525>,<Michael 61>,spiritual son
+<Anonyma 241>,<Marianos 15001>,wife
+<Anonymus 436>,<Euphemia 103>,son
+<Anonymus 436>,<Michael 61>,grandson
+<Drogo 10101>,<Humphrey 10101>,brother
+<Drogo 10101>,<William 10101>,brother
+<Eirene 148>,<Konstantinos 214>,wife
+<Cecilia 102>,<Roger 4002>,wife
+<Cecilia 102>,<Baldwin 52>,sister
+<Nikolaos 183>,<Helena 115>,father
+<Nikolaos 183>,<Georgios 191>,brother
+<Anonymi 6020>,<Michael 4>,brother
+<Anonyma 4005>,<Taftoc 4001>,daughter
+<Anonyma 4005>,<Baldwin 51>,wife (second)
+<Krino 101>,<Konstantinos 153>,wife
+<Oshin 20101>,<Hetoum 20101>,father
+<Nikolaos 2104>,<Anastasios 2101>,uncle
+<Ioannes 203>,<Petros 118>,father
+<Maria 152>,<Michael 225>,mother
+<Maria 152>,<Ioannes 316>,wife
+<Maria 25003>,<Anonymi 25004>,mother
+<Maria 25003>,<Theodora 107>,daughter
+<Maria 25003>,<Konstantinos 20111>,wife
+<Constance 101>,<Louis 101>,wife (second)
+<Constance 101>,<Alfonso 57>,daughter
+<Prodanos 101>,<Ioannes 218>,son
+<Anonyma 11001>,<Apasios 11001>,mother
+<Anonyma 11001>,<Gregorios 61>,mother
+<Anonyma 11001>,<Anonymae 11001>,mother
+<Anonymus 6037>,<Anonyma 210>,father
+<Anonymus 137>,<Anonyma 106>,husband
+<Ivo 4001>,<William 4008>,brother
+<Ivo 4001>,<Aubrey 4002>,brother
+<Anonymus 138>,<Amer 101>,father
+<Theophano 12101>,<Romanos 3>,daughter
+<Anar 101>,<Anonyma 253>,father
+<Anar 101>,<Anonyma 252>,father
+<Anar 101>,<Nur al-Din 4001>,father-in-law
+<Anar 101>,<Mujir al-Din 101>,father-in-law
+<Anar 101>,<Anonyma 251>,father
+<Nikephoros 17004>,<Eirene 17003>,husband
+<Nikephoros 17004>,<Manuel 1>,husband of niece
+<Konstantinos 9>,<Romanos 3>,nephew (by marriage)
+<Konstantinos 9>,<Maria 64>,lover
+<Konstantinos 9>,<Euprepeia 61>,brother
+<Konstantinos 9>,<Theodosios 109>,son
+<Konstantinos 9>,<Anonymus 7012>,son-in-law
+<Konstantinos 9>,<Leon 61>,kin
+<Konstantinos 9>,<Theodora 1>,brother-in-law
+<Konstantinos 9>,<Maria 20115>,brother
+<Konstantinos 9>,<Anonyma 7004>,husband
+<Konstantinos 9>,<Helena 7001>,brother
+<Konstantinos 9>,<Zoe 1>,husband (third)
+<Konstantinos 9>,<Anonymus 199>,nephew
+<Konstantinos 9>,<Theodosios 103>,cousin
+<Konstantinos 9>,<Anonyma 6006>,husband
+<Konstantinos 9>,<Nikolaos 2106>,kin
+<Konstantinos 9>,<Anonyma 210>,lover
+<Niketas 104>,<Michael 4>,brother
+<Niketas 104>,<Ioannes 68>,brother
+<Nikoulitzas 101>,<Pankratios 102>,father
+<Nikoulitzas 101>,<Anonymae 103>,father
+<Nikoulitzas 101>,<Gregoras 101>,father
+<Nikoulitzas 101>,<Theodoros 113>,brother
+<Nikoulitzas 101>,<Demetrios 106>,brother
+<Nikoulitzas 101>,<Anonymus 274>,father-in-law of child
+<Maria 115>,<Ioannes 196>,daughter
+<Theodora 101>,<Eudokia 1>,daughter
+<Theodora 101>,<Konstantinos 10>,daughter
+<Isaakios 20110>,<Theodoros 17002>,son
+<Gerard 4004>,<Agnes 4002>,husband (second)
+<Gerard 4004>,<Renaud 4006>,father
+<Nikephoros 133>,<Ioannes 247>,father-in-law
+<Nikephoros 133>,<Drazilas 102>,son
+<Nikephoros 133>,<Kale 123>,husband
+<Nikephoros 133>,<Basileios 173>,grandfather
+<Basileios 197>,<Niketas 153>,father
+<Basileios 197>,<Kyriakos 121>,father
+<Basileios 197>,<Anna 150>,husband
+<Anonyma 158>,<David 108>,sister
+<Anonyma 158>,<Gagik 101>,wife
+<Aksungur 4001>,<Zengi 4001>,father
+<Aksungur 4001>,<Nur al-Din 4001>,grandfather
+<Anonyma 159>,<David 109>,daughter
+<Anonyma 159>,<Gagik 101>,wife
+<Anna 63>,<Maria 62>,daughter (second)
+<Anna 63>,<Eirene 61>,sister
+<Anna 63>,<Georgios 61>,wife
+<Anna 63>,<Andronikos 61>,daughter (second)
+<Anna 63>,<Michael 121>,sister
+<Anna 63>,<Ioannes 2>,aunt
+<Anna 63>,<Ioannes 65>,sister
+<Theodoros 245>,<Maria 17005>,husband
+<Anna 125>,<Samuel 106>,wife
+<Hugh 4008>,<Mabel 4001>,husband
+<Hugh 4008>,<Baldwin 52>,cousin (first)
+<Hugh 4008>,<Hugh 4009>,father
+<Anonymus 17033>,<Anonyma 17006>,husband
+<Anonymus 17033>,<Belos 17001>,brother
+<Anonymae 5000>,<Eudokia 1>,daughter
+<Anonymae 5000>,<Michael 7>,sister
+<Ioannes 207>,<Stephanos 121>,son
+<Stephanos 125>,<Belkonas 102>,son
+<Lothar 17001>,<Anonymus 17002>,relative by marriage
+<Anonymus 121>,<Gaita 101>,father
+<Photeinos 107>,<Demetrios 158>,father
+<Gnebotos 101>,<Ioannes 192>,father
+<Kalos 104>,<Niketas 153>,son
+<Ioannes 63>,<Anonyma 5004>,brother
+<Ioannes 63>,<Anna 62>,grandfather (paternal)
+<Ioannes 63>,<Maria 169>,son
+<Ioannes 63>,<Adrianos 102>,father
+<Ioannes 63>,<Isaakios 1>,brother
+<Ioannes 63>,<Manuel 119>,son
+<Ioannes 63>,<Isaakios 61>,father
+<Ioannes 63>,<Nikephoros 116>,father
+<Ioannes 63>,<Anna 61>,husband
+<Ioannes 63>,<Theodora 106>,father
+<Ioannes 63>,<Eirene 61>,father-in-law
+<Ioannes 63>,<Eudokia 108>,father
+<Ioannes 63>,<Maria 105>,father
+<Ioannes 63>,<Manuel 61>,father
+<Ioannes 63>,<Alexios 1>,father
+<Ioannes 63>,<Ioannes 2>,grandfather
+<Anonymus 2463>,<Michael 61>,kin
+<Isaakios 106>,<Ioannes 459>,brother
+<Hugh 4009>,<Mabel 4001>,son
+<Hugh 4009>,<Hugh 4008>,son
+<Hugh 4009>,<Walter 4004>,step-father
+<Hugh 4009>,<Emelota 4001>,husband (second)
+<Hugh 4009>,<Melisende 4002>,kin
+<Nikephoros 25001>,<Theodora 25001>,son
+<Petros 116>,<Stanilas 101>,grandfather
+<Anonymi 25004>,<Maria 25003>,children
+<Anonymi 25004>,<Konstantinos 20111>,children
+<Anonymus 25009>,<Andronikos 108>,son
+<Nikolaos 164>,<Ioannes 242>,son
+<Plyto 101>,<Konstantinos 214>,daughter
+<Zengi 4001>,<Aksungur 4001>,son
+<Zengi 4001>,<Nur al-Din 4001>,father
+<Zengi 4001>,<Anonymus 1012>,father
+<Stephanos 4001>,<Robert 63>,husband of sister of wife
+<Manuel 17003>,<Ioannes 17008>,son
+<Kalonas 101>,<Nikolaos 113>,brother
+<Alexios 25002>,<Eirene 61>,grandson
+<Alexios 25002>,<Nikephoros 178>,son
+<Alexios 25002>,<Alexios 1>,grandson
+<Alexios 25002>,<Anonyma 25006>,husband
+<Alexios 25002>,<Ioannes 2>,nephew
+<Alexios 25002>,<Maria 146>,son
+<Alexios 25002>,<Manuel 1>,cousin
+<Bohemond 26101>,<Bohemond 61>,son (spiritual)
+<Sergios 105>,<Anonyma 2149>,uncle
+<Georgios 14102>,<Christodoulos 101>,spiritual son
+<Georgios 14102>,<Anonymi 14122>,father
+<Anonymi 17003>,<Isaakios 103>,children
+<Shams al-Dawla 26101>,<Anonyma 4006>,son
+<Shams al-Dawla 26101>,<Yaghi Siyan 4001>,son
+<Nedanos 101>,<Lazaros 102>,son
+<Anonymi 17002>,<Anonymi 17002>,brother-in-law
+<Anonymi 17002>,<Manuel 1>,brother-in-law
+<Anonymus 391>,<Michael 4>,brother
+<Anonyma 235>,<Thoros 101>,wife
+<Theodoros 101>,<Anonyma 5004>,son
+<Theodoros 101>,<Anonyma 2125>,son-in-law
+<Theodoros 101>,<Anonymus 2238>,son-in-law
+<Theodoros 101>,<Isaakios 1>,nephew
+<Theodoros 101>,<Alexios 1>,cousin
+<Theodoros 101>,<Anonyma 2126>,husband
+<Kyriakos 119>,<Maria 157>,husband
+<Kyriakos 119>,<Leon 169>,father
+<Kyriakos 119>,<Anna 149>,father
+<Kyriakos 119>,<Kalos 103>,son
+<Bertrada 4001>,<Philippos 4001>,wife (de facto)
+<Bertrada 4001>,<Fulk 4002>,wife
+<Bertrada 4001>,<Fulk 4001>,mother
+<Bertrada 4001>,<Cecilia 4001>,mother
+<Anonyma 17006>,<Anonymus 17033>,wife
+<Anonyma 17006>,<Ouresis 17001>,sister
+<Anonymi 11002>,<Gregorios 61>,spiritual brother
+<Ioannes 17011>,<Theodora 25002>,son-in-law
+<Maria 17005>,<Theodoros 245>,wife
+<Maria 17005>,<Ioannes 17008>,wife
+<Maria 17005>,<Andronikos 109>,daughter
+<Anonymi 7003>,<Alousianos 101>,children
+<Anna 25001>,<Andronikos 17004>,mother
+<Anna 25001>,<Manuel 1>,sister
+<Anna 25001>,<Stephanos 17003>,wife
+<Anna 25001>,<Alexios 25004>,mother
+<Anna 25001>,<Ioannes 2>,daughter
+<Anna 25001>,<Eirene 25001>,mother
+<Anna 25001>,<Ioannes 25006>,mother
+<Anonymi 186>,<Eirene 62>,children
+<Anonyma 17005>,<Isaakios 103>,wife
+<Anonymus 2511>,<Michael 61>,kin
+<Anonymi 139>,<Eustathios 105>,brother
+<Anonyma 17003>,<Masud 17001>,mother
+<Symbatios 101>,<Sergios 102>,half-brother
+<Symbatios 101>,<Kale 102>,husband
+<Symbatios 101>,<Niketas 124>,brother-in-law
+<Kalos 103>,<Kyriakos 119>,father
+<Kalos 103>,<Leon 168>,father
+<Kalos 103>,<Moscho 101>,husband
+<Kalos 103>,<Lykianos 101>,father
+<Anonymus 356>,<Paulos 112>,father
+<Ioannes 25006>,<Stephanos 17003>,son
+<Ioannes 25006>,<Manuel 1>,nephew
+<Ioannes 25006>,<Anna 25001>,son
+<Agnes 17002>,<Bela 53>,wife
+<Agnes 17002>,<Maria 63>,sister
+<Anonymus 5004>,<Eirene 65>,father
+<Anonymus 25070>,<Georgios 25002>,brother
+<Anonyma 4013>,<Rainier 4002>,wife
+<Alexios 3>,<Nikephoros 150>,relative by marriage
+<Alexios 3>,<Isaakios 2>,brother
+<Alexios 3>,<Stephanos 157>,father of daughter-in-law
+<Alexios 3>,<Ioannes 2>,grandson
+<Alexios 3>,<Basileios 20105>,brother-in-law
+<Alexios 3>,<Eirene 20101>,father
+<Alexios 3>,<Anna 20112>,father
+<Alexios 3>,<Ioannes 469>,nephew
+<Alexios 3>,<Manuel 20114>,cousin
+<Alexios 3>,<Alexios 1>,great grandson
+<Alexios 3>,<Alexios 4>,uncle
+<Alexios 3>,<Michael 260>,husband of sister of wife
+<Alexios 3>,<Theodora 20101>,brother-in-law
+<Anonymi 4006>,<Ioannes 2>,son
+<Georgios 150>,<Petros 118>,son
+<Anonymus 562>,<Romanos 2>,cousin
+<Anonymus 562>,<Romanos 3>,father
+<Roger 17001>,<Adelaide 4001>,son
+<Roger 17001>,<Robert 17001>,uncle
+<Roger 17001>,<William 51>,father
+<Roger 17001>,<Bohemond 61>,kin (by blood)
+<Roger 17001>,<Roger 101>,father
+<Roger 17001>,<Roger 4003>,son
+<Roger 17001>,<Anonymus 17029>,father
+<Stephanos 52>,<Laszlo 51>,son
+<Stephanos 52>,<Almouzes 17001>,brother
+<Konstantinos 157>,<Ioannes 218>,son
+<Alexios 25004>,<Stephanos 17003>,son
+<Alexios 25004>,<Manuel 1>,nephew
+<Alexios 25004>,<Anna 25001>,son
+<Anonyma 12121>,<Anonymus 12180>,granddaughter
+<Anonyma 12121>,<Anonyma 12120>,daughter
+<Maria 17006>,<Ioannes 17006>,daughter
+<Maria 17006>,<Amalric 51>,wife
+<Ioannes 508>,<Alexios 25001>,brother
+<Ioannes 508>,<Isaakios 103>,son
+<Anonymus 565>,<Mousaraph 101>,son
+<Theodoros 104>,<Leon 61>,kin
+<Anonymi 141>,<Eirene 103>,grandchildren
+<Anonyma 243>,<Melikshah 101>,wife
+<Anna 20111>,<Maria 20106>,daughter
+<Anna 20111>,<Ioannes 306>,daughter
+<Anonyma 15008>,<Raymond 15001>,wife
+<Anonyma 15008>,<Robert 61>,daughter
+<Xenia 101>,<Konstantinos 214>,daughter
+<Roger 15001>,<Robert 61>,son
+<Anonyma 211>,<Sinan 101>,sister
+<Anonyma 211>,<Pinzarach 101>,wife
+<Khitam 101>,<Usama 101>,cousin
+<Humphrey 10101>,<Robert 61>,brother
+<Humphrey 10101>,<Drogo 10101>,brother
+<Epiphanios 14102>,<Christodoulos 101>,spiritual son
+<Epiphanios 14102>,<Anonymus 14151>,nephew
+<Anonyma 20103>,<Anonymus 20247>,daughter
+<Pankratios 12101>,<Helena 12101>,husband
+<Pankratios 12101>,<Theophano 12103>,grandfather
+<Pankratios 12101>,<Anonymus 12253>,son
+<William 106>,<Louis 101>,uncle
+<William 106>,<Anonyma 256>,brother
+<William 106>,<Anonyma 255>,husband
+<Anonymus 7012>,<Konstantinos 9>,father-in-law
+<Anonyma 15019>,<Theodoros 6003>,wife
+<Anonyma 2105>,<Stephanos 2101>,daughter
+<Anonyma 15020>,<Eirene 65>,cousin
+<Anonyma 15020>,<Theodoros 6003>,wife
+<Maria 130>,<Georgios 167>,wife
+<Anonymi 12104>,<Anonyma 12120>,children
+<Jaroslav 17001>,<Anonyma 17015>,father
+<Jaroslav 17001>,<Stephanos 53>,father-in-law (designate)
+<Anonymus 2105>,<Michael 11>,brother (elder)
+<Anonymus 2105>,<Anonyma 2103>,husband
+<Anonymus 2105>,<Nikephoros 111>,father
+<Anonymus 2105>,<Konstantinos 120>,father
+<Lazaros 104>,<Eirene 133>,son
+<Lazaros 104>,<Niketas 150>,son
+<Lazaros 104>,<Ignatios 107>,brother
+<Lazaros 104>,<Elias 104>,nephew
+<Lazaros 104>,<Anonymus 493>,nephew
+<Anonymus 11004>,<Gregorios 61>,cousin
+<Anonymus 11004>,<Chosrienes 11001>,son
+<Theophylaktos 102>,<Adrianos 101>,uncle
+<Theophylaktos 102>,<Konstantinos 63>,brother
+<Demetrios 121>,<Zoe 104>,husband
+<Demetrios 121>,<Stephanos 121>,brother
+<Demetrios 121>,<Theodoros 144>,father
+<Theodoros 20258>,<Hetoum 20101>,son
+<Manasses 102>,<Anonyma 258>,husband
+<Manasses 102>,<Melisende 4002>,kin (by blood)
+<Demetrios 123>,<Basileios 153>,father
+<Demetrios 123>,<Kale 105>,husband
+<Demetrios 123>,<Therianos 101>,father
+<Demetrios 123>,<Konstantineba 101>,son
+<Demetrios 123>,<Basileios 151>,brother
+<Manuel 25001>,<Manuel 1>,brother-in-law
+<Manuel 25001>,<Theodora 25002>,husband
+<Eudokia 17001>,<Manuel 1>,niece
+<Eudokia 17001>,<Michael 17005>,wife
+<Anonyma 257>,<Baldwin 53>,brother
+<Anonyma 257>,<Thierry 4001>,wife
+<Anonyma 191>,<Anonymus 584>,mother
+<Anonyma 191>,<Kyrillos 106>,wife
+<Anonyma 191>,<Anonyma 195>,mother
+<Anonyma 191>,<Anonymus 576>,mother
+<Michael 122>,<Alexios 1>,nephew (by marriage)
+<Michael 122>,<Anonyma 212>,husband
+<Theosostos 101>,<Leon 135>,brother
+<Anonymus 15024>,<Nikephoros 3>,grandson
+<Anonymus 15024>,<Anonyma 8106>,husband (betrothed)
+<Anonymus 15024>,<Anna 61>,betrothed of granddaughter
+<Therianos 101>,<Demetrios 123>,son
+<Pachypodes 101>,<Dokeianos 101>,father
+<Pachypodes 101>,<Konstantinos 153>,father
+<Nikephoros 117>,<Nikephoros 62>,descendant (grandson)
+<Nikephoros 117>,<Anna 62>,husband
+<Nikephoros 117>,<Eirene 61>,son-in-law
+<Nikephoros 117>,<Anonyma 241>,brother
+<Nikephoros 117>,<Alexios 17005>,father
+<Nikephoros 117>,<Alexios 1>,son-in-law
+<Nikephoros 117>,<Alexios 25011>,grandfather
+<Nikephoros 117>,<Ioannes 2>,brother-in-law
+<Nikephoros 117>,<Ioannes 17007>,father
+<Nikephoros 117>,<Marianos 15001>,brother-in-law
+<Anonyma 217>,<Maria 146>,daughter
+<Robert 61>,<Auberee 101>,husband
+<Robert 61>,<Helena 101>,father
+<Robert 61>,<Arduin 101>,nephew
+<Robert 61>,<Robert 102>,brother
+<Robert 61>,<Anonyma 15008>,father
+<Robert 61>,<Michael 7>,relative by marriage
+<Robert 61>,<Roger 15001>,father
+<Robert 61>,<Roger 4003>,brother
+<Robert 61>,<Guy 4004>,father
+<Robert 61>,<Bohemond 61>,father
+<Robert 61>,<Anonyma 15009>,father
+<Robert 61>,<Gaita 101>,husband
+<Robert 61>,<Humphrey 10101>,brother
+<Robert 61>,<Richard 4001>,uncle
+<Robert 61>,<Anonymae 2102>,father
+<Robert 61>,<Anonymus 2122>,father
+<Anastasia 103>,<Ioannes 192>,wife
+<Nikephoros 148>,<Kissiane 101>,husband
+<Nikephoros 148>,<Anonymus 613>,son
+<Nikephoros 148>,<Maria 156>,father
+<Nikephoros 148>,<Leon 167>,father-in-law
+<Anonyma 12120>,<Anonymus 12180>,daughter
+<Anonyma 12120>,<Anonyma 12121>,mother
+<Anonyma 12120>,<Anonymi 12104>,mother
+<Anonymus 2386>,<Romanos 104>,grandson
+<Theophano 12103>,<Agathe 12101>,daughter
+<Theophano 12103>,<Helena 12101>,granddaughter
+<Theophano 12103>,<Theophano 12102>,cousin (second)
+<Theophano 12103>,<Michael 12105>,great granddaughter
+<Theophano 12103>,<Pankratios 12101>,granddaughter
+<Theophano 12103>,<Theophylaktos 12101>,cousin (second)
+<Petros 119>,<Nikolaos 140>,son
+<Rosanna 103>,<Alexios 101>,mother
+<Rosanna 103>,<Konstantinos 154>,wife
+<Nikephoros 167>,<Theoktistos 107>,spiritual brother
+<Nikephoros 167>,<Theodoros 222>,spiritual son
+<Euphemia 103>,<Elpidios 2101>,wife (betrothed)
+<Euphemia 103>,<Anonymus 436>,mother
+<Euphemia 103>,<Michael 61>,daughter (adopted)
+<Demetrios 152>,<Georgios 25002>,brother
+<Basileios 130>,<Maria 110>,brother
+<Basileios 130>,<Georgios 134>,son
+<Basileios 130>,<Kale 101>,son
+<Basileios 130>,<Merotas 101>,brother
+<Michael 20325>,<Manuel 1>,nephew
+<Balian 101>,<Balian 102>,father
+<Balian 101>,<Baldwin 102>,father
+<Balian 101>,<Anonyma 258>,husband
+<Balian 101>,<Hugh 106>,father
+<Demetrios 142>,<Basileios 151>,brother
+<Anonyma 226>,<Ioannes 17006>,wife
+<Michael 136>,<Manuel 61>,brother-in-law
+<Michael 136>,<Alexios 1>,brother-in-law
+<Michael 136>,<Gregorios 106>,uncle
+<Michael 136>,<Maria 105>,husband
+<Anonymi 2106>,<Leon 2103>,children
+<Anonymi 2106>,<Anonyma 2109>,children
+<Anonymus 873>,<Anonyma 239>,son
+<Aikaterine 102>,<Lazaros 102>,wife
+<Lazaros 102>,<Ioannes 195>,son
+<Lazaros 102>,<Nedanos 101>,father
+<Lazaros 102>,<Theodoros 140>,father
+<Lazaros 102>,<Eustathios 108>,father
+<Lazaros 102>,<Aikaterine 102>,husband
+<Henry 4002>,<Eleanor 101>,husband
+<Isaakios 20103>,<Anonymus 20248>,son-in-law
+<Isaakios 20103>,<Anonyma 20103>,son
+<Maria 106>,<Eirene 102>,sister
+<Maria 106>,<Eustathios 105>,daughter (younger)
+<Maria 20116>,<Isaakios 61>,granddaughter
+<Anonymi 12105>,<Anonyma 12126>,children
+<Anonymus 2119>,<Ioannes 2106>,father
+<Theodora 106>,<Konstantinos 181>,wife
+<Theodora 106>,<Ioannes 63>,daughter (youngest)
+<Theodora 106>,<Alexios 1>,sister
+<Theodora 106>,<Isaakios 61>,sister
+<Theodora 106>,<Ioannes 2>,aunt
+<Theodora 106>,<Anna 61>,daughter
+<Alypios 101>,<Helena 103>,father
+<Ioannes 384>,<Anonyma 204>,son
+<Ioannes 384>,<Maria 164>,brother
+<Ioannes 384>,<Demetrios 158>,son
+<Ioannes 384>,<Nikolaos 219>,cousin
+<Theodoros 176>,<Michael 202>,son
+<Anonyma 110>,<Romanos 3>,niece
+<Anonyma 110>,<Ioannes 106>,wife
+<Michael 17005>,<Eudokia 17001>,husband
+<Sabas 109>,<Stephanos 157>,son
+<Thoros 101>,<Baldwin 51>,father (adoptive)
+<Thoros 101>,<Anonyma 235>,husband
+<Romanos 1>,<Helena 116>,father
+<Romanos 1>,<Agathe 104>,father
+<Anonymus 172>,<Anonyma 115>,father
+<Alde 101>,<Demetrios 102>,mother
+<Alde 101>,<Georgios 105>,wife
+<Niketas 150>,<Lazaros 104>,father
+<Niketas 150>,<Anonymi 157>,father
+<Gregorios 61>,<Anonymi 11002>,spiritual brother
+<Gregorios 61>,<Achsartanes 11001>,brother-in-law
+<Gregorios 61>,<Anonymi 11001>,spiritual brother
+<Gregorios 61>,<Apasios 11001>,brother
+<Gregorios 61>,<Anonymus 11001>,son
+<Gregorios 61>,<Anonyma 11001>,son
+<Theodoros 113>,<Nikoulitzas 101>,brother
+<Timurtash  101>,<Ilghazi 4001>,son
+<Georgios 211>,<Leon 165>,brother
+<Georgios 211>,<Ioannes 324>,father
+<Georgios 211>,<Leon 164>,father
+<Stephanos 126>,<Anonyma 143>,husband
+<Stephanos 126>,<Georgios 157>,father
+<Stephanos 126>,<Georgios 158>,father
+<Anonyma 114>,<Anonymus 161>,mother
+<Anonyma 114>,<Amer 102>,wife
+<Drazilas 102>,<Nikephoros 133>,father
+<Anonymus 186>,<Leon 61>,kin
+<Anonyma 115>,<Anonymus 172>,daughter
+<Anonyma 115>,<Petros 102>,mother
+<Anonyma 116>,<Alousianos 101>,wife
+<Konstantinos 126>,<Nikephoros 3>,relative by marriage
+<Anthimos 102>,<Leon 157>,father
+<Anonyma 145>,<Nikolaos 146>,wife
+<Anonyma 145>,<Anonymus 352>,daughter-in-law
+<Anonyma 2119>,<Styliane 2101>,mother
+<Anonyma 2119>,<Michael 61>,wife
+<Nikolaos 133>,<Photeine 101>,husband
+<Nikolaos 133>,<Zakchaios 101>,son
+<Anonyma 118>,<Anonymus 274>,mother
+<Anonymi 17004>,<Isaakios 102>,children
+<Anonyma 255>,<Conrad 53>,half-sister
+<Anonyma 255>,<William 106>,wife
+<Gregorios 106>,<Ioannes 117>,cousin
+<Gregorios 106>,<Michael 136>,nephew
+<Amer 101>,<Anonymus 148>,son
+<Amer 101>,<Anonyma 114>,husband
+<Amer 101>,<Anonymus 138>,son
+<Boris 17001>,<Anna 25002>,husband
+<Boris 17001>,<Geza 52>,brother
+<Prokopios 102>,<Kosmas 103>,son
+<Konstantinos 4002>,<Taftoc 4001>,brother
+<William 4008>,<Anonyma 4004>,husband
+<William 4008>,<Aubrey 4002>,brother
+<William 4008>,<Ivo 4001>,brother
+<Nikephoros 168>,<Eudokia 110>,brother
+<Nikephoros 168>,<Samuel 109>,son
+<Nikephoros 168>,<Anna 153>,husband
+<Andronikos 17007>,<Alexios 17005>,brother
+<Andronikos 17007>,<Maria 146>,son
+<Andronikos 17007>,<Manuel 1>,cousin
+<Ioannes 2104>,<Elpidios 2101>,father
+<Adrianos 25001>,<Eirene 65>,son
+<Adrianos 25001>,<Isaakios 61>,son
+<Adrianos 25001>,<Anonyma 25013>,husband
+<Adrianos 25001>,<Anonymi 25009>,father
+<Chrysos 101>,<Theodoros 143>,son
+<Leon 17002>,<Anonyma 4011>,brother
+<Leon 17002>,<Anonymi 25008>,kin (by blood)
+<Leon 17002>,<Roupen 101>,son
+<Anonymus 989>,<Manuel 1>,kin
+<Anonyma 155>,<Demetrios 127>,sister
+<Laszlo 52>,<Geza 52>,brother
+<Laszlo 52>,<Stephanos 54>,brother (younger)
+<Athanasios 105>,<Symeon 132>,spiritual father
+<Athanasios 105>,<Theoktistos 107>,spiritual father
+<Ioannes 25002>,<Anonyma 25002>,husband
+<Ioannes 25002>,<Isaakios 102>,son
+<Ioannes 25002>,<Ioannes 2>,nephew
+<Ioannes 25002>,<Manuel 1>,cousin
+<Phatloum 101>,<Artaseiras 101>,father
+<Phatloum 101>,<Aplesphares 101>,brother
+<Eirene 25003>,<Anna 62>,daughter
+<Eirene 25003>,<Eirene 61>,granddaughter
+<Eirene 25003>,<Alexios 25011>,mother
+<Konstantinos 17004>,<Anna 17002>,husband
+<Kyriakos 122>,<Konstantinos 214>,son
+<Anonymus 2102>,<Ioannes 18>,father
+<Philaretos 102>,<Kale 102>,brother
+<Maria 17002>,<Eirene 66>,daughter (eldest)
+<Maria 17002>,<Manuel 1>,daughter
+<Henry 4003>,<Raymond 17001>,brother
+<Konstantinos 252>,<Konstantinos 251>,son-in-law
+<Ioannes 193>,<Stanilas 101>,son
+<Deadole 101>,<Ioannes 155>,wife
+<Anonymi 172>,<Alexios 1>,children
+<Anonymi 172>,<Eirene 61>,children
+<Joseph 17001>,<Manuel 1>,nephew
+<Ioannes 196>,<Nikolaos 131>,son
+<Ioannes 196>,<Demetria 101>,husband
+<Ioannes 196>,<Anna 108>,father
+<Ioannes 196>,<Kale 103>,father
+<Ioannes 196>,<Barbara 103>,father
+<Ioannes 196>,<Maria 115>,father
+<Nikephoros 3>,<Anonymus 15024>,grandfather
+<Nikephoros 3>,<Maria 61>,husband (second)
+<Nikephoros 3>,<Romanos 61>,kin
+<Nikephoros 3>,<Anonyma 106>,uncle
+<Nikephoros 3>,<Nikephoros 8106>,kin
+<Nikephoros 3>,<Bebdene 101>,husband
+<Nikephoros 3>,<Konstantinos 126>,relative by marriage
+<Nikephoros 3>,<Romanos 4>,kin
+<Hodierna 4001>,<Morphia 4001>,daughter
+<Hodierna 4001>,<Baldwin 52>,daughter
+<Hodierna 4001>,<Raymond 4004>,wife
+<Hodierna 4001>,<Melisende 4002>,sister
+<Hodierna 4001>,<Constance 4002>,aunt (maternal)
+<Hodierna 4001>,<Raymond 17002>,mother
+<Hodierna 4001>,<Melisende 17001>,mother
+<Hugh 4001>,<Philippos 4001>,brother
+<Hugh 4001>,<Henry 103>,son
+<Ioannes 221>,<Demetrios 127>,father
+<Ioannes 452>,<Manuel 1>,cousin
+<Anonyma 2149>,<Anastasios 2101>,wife
+<Anonyma 2149>,<Sergios 105>,niece
+<Alexios 20111>,<Theodora 25002>,son
+<Anonymi 213>,<Constance 4002>,children
+<Anonymi 213>,<Raymond 17001>,children
+<Maria 12105>,<Demetrios 12101>,wife
+<Maria 12105>,<Eirene 12101>,daughter
+<Niketas 124>,<Symbatios 101>,brother-in-law
+<Niketas 124>,<Kale 102>,brother
+<Ioannes 17007>,<Nikephoros 117>,son
+<Ioannes 17007>,<Theodora 25001>,husband
+<Ioannes 17007>,<Ioannes 2>,nephew
+<Ioannes 17007>,<Manuel 1>,cousin
+<Garnier 4001>,<Godfrey 51>,relative
+<Alexios 25011>,<Nikephoros 117>,grandson
+<Alexios 25011>,<Eirene 25003>,son
+<Adelaide 4001>,<Roger 17001>,mother
+<Adelaide 4001>,<Baldwin 51>,wife
+<Adelaide 4001>,<Roger 4003>,wife
+<Marianos 102>,<Leon 61>,kin
+<Pinzarach 101>,<Sinan 101>,brother-in-law
+<Pinzarach 101>,<Alach 101>,father
+<Pinzarach 101>,<Anonyma 211>,husband
+<Ioannes 17006>,<Anonyma 17018>,father
+<Ioannes 17006>,<Anonyma 226>,husband
+<Ioannes 17006>,<Alexios 25003>,brother
+<Ioannes 17006>,<Maria 17006>,father
+<Ioannes 17006>,<Andronikos 109>,son
+<Ioannes 17006>,<Manuel 1>,nephew
+<William 51>,<Roger 17001>,son
+<William 51>,<Alexandros 17001>,kin (by blood)
+<William 51>,<Anonymus 17048>,brother
+<Ioannes 204>,<Petros 118>,son
+<Hugh 4006>,<Baldwin 52>,father
+<Ashot 101>,<Ioannes 106>,brother
+<Ashot 101>,<Gagik 101>,father
+<Ashot 101>,<Aplesphares 101>,father-in-law
+<Basileios 20105>,<Alexios 3>,brother-in-law
+<Andronikos 17010>,<Eudokia 20108>,son
+<Andronikos 17010>,<Theodoros 17002>,son
+<Andronikos 17010>,<Alexios 111>,brother
+<Andronikos 17010>,<Manuel 1>,nephew
+<Anna 64>,<Ioannes 61>,mother
+<Anna 64>,<Anonymus 61>,grandmother
+<Anna 64>,<Nikephoros 62>,mother
+<Anonyma 212>,<Michael 122>,husband
+<Anonyma 212>,<Alexios 1>,niece
+<Konstantineba 101>,<Demetrios 123>,mother
+<Konstantineba 101>,<Basileios 151>,mother
+<Michael 202>,<Kale 129>,son
+<Michael 202>,<Anonyma 161>,son-in-law
+<Michael 202>,<Euphrosyne 103>,relative (nephew) by marriage
+<Michael 202>,<Eirene 131>,husband
+<Michael 202>,<Theodoros 176>,father
+<Michael 202>,<Sophia 104>,husband
+<Michael 202>,<Anastaso 101>,brother-in-law
+<Michael 202>,<Anonymae 104>,brother
+<Michael 202>,<Eirenikos 101>,son
+<Anna 17002>,<Konstantinos 17004>,wife
+<Anna 17002>,<Manuel 1>,niece
+<Eirene 102>,<Gregorios 111>,wife
+<Eirene 102>,<Maria 106>,sister
+<Eirene 102>,<Eustathios 105>,daughter (elder)
+<Konstantinos 7>,<Helena 116>,husband
+<Konstantinos 7>,<Nikolaos 113>,kin
+<Konstantinos 7>,<Romanos 110>,brother-in-law
+<Konstantinos 7>,<Basileios 2>,grandfather
+<Konstantinos 7>,<Konstantinos 8>,grandfather
+<Konstantinos 7>,<Leon 6>,son
+<Konstantinos 7>,<Agape 101>,kin
+<Nikephoros 150>,<Alexios 3>,relative by marriage
+<Theophanes 14101>,<Christodoulos 101>,nephew
+<Konstantinos 8>,<Konstantinos 63>,father-in-law (designate)
+<Konstantinos 8>,<Romanos 3>,father-in-law
+<Konstantinos 8>,<Zoe 1>,father
+<Konstantinos 8>,<Helena 103>,husband
+<Konstantinos 8>,<Eudokia 101>,father
+<Konstantinos 8>,<Basileios 2>,brother
+<Konstantinos 8>,<Romanos 2>,son
+<Konstantinos 8>,<Theodora 1>,father
+<Konstantinos 8>,<Konstantinos 7>,grandson
+<Anonyma 239>,<Bohemond 61>,sister
+<Anonyma 239>,<Anonymus 873>,mother
+<Anonyma 239>,<Tancred 61>,mother
+<Mauros 102>,<Theodoros 143>,father
+<Alice 4001>,<Morphia 4001>,daughter
+<Alice 4001>,<Bohemond 17001>,wife
+<Alice 4001>,<Baldwin 52>,daughter
+<Alice 4001>,<Melisende 4002>,sister
+<Alice 4001>,<Constance 4002>,mother
+<Anonyma 17018>,<Ioannes 17006>,daughter
+<Basileios 14104>,<Theodosios 14102>,uncle
+<Konstantinos 61>,<Ioannes 62>,son
+<Konstantinos 61>,<Michael 7>,cousin
+<Konstantinos 61>,<Andronikos 61>,brother (younger)
+<Konstantinos 61>,<Eirene 20117>,son (younger)
+<Anonymus 2583>,<Michael 61>,kin
+<Michael 20563>,<Ioannes 469>,son
+<Alexios 103>,<Katae 17001>,husband
+<Alexios 103>,<Anonyma 25004>,uncle
+<Alexios 103>,<Maria 20117>,father
+<Alexios 103>,<Andronikos 109>,brother
+<Alexios 103>,<Maria 168>,brother
+<Alexios 103>,<Ioannes 2>,son
+<Alexios 103>,<Eudokia 112>,husband
+<Alexios 103>,<Isaakios 103>,brother
+<Alexios 17004>,<Maria 20117>,husband
+<Alexios 17004>,<Ioannes 293>,son
+<Konstantinos 62>,<Helena 101>,husband (proposed)
+<Konstantinos 62>,<Eirene 61>,son-in-law
+<Konstantinos 62>,<Michael 7>,son
+<Konstantinos 62>,<Maria 61>,son
+<Konstantinos 62>,<Alexios 1>,son-in-law
+<Konstantinos 62>,<Konstantinos 10>,grandson
+<Anna 153>,<Nikolaos 230>,daughter
+<Anna 153>,<Nikephoros 168>,wife
+<Konstantinos 63>,<Anonyma 113>,father
+<Konstantinos 63>,<Romanos 103>,brother
+<Konstantinos 63>,<Theophylaktos 102>,brother
+<Konstantinos 63>,<Adrianos 101>,uncle
+<Konstantinos 63>,<Anonyma 7000>,husband
+<Konstantinos 63>,<Damianos 103>,uncle
+<Konstantinos 63>,<Konstantinos 10>,father-in-law
+<Anonyma 17015>,<Jaroslav 17001>,daughter
+<Anonymus 319>,<Kale 102>,father
+<Ioannes 14108>,<Christodoulos 101>,nephew
+<Anna 17001>,<Eirene 66>,daughter
+<Anna 17001>,<Manuel 1>,daughter
+<Melisende 17001>,<Hodierna 4001>,daughter
+<Melisende 17001>,<Raymond 17002>,sister
+<Melisende 17001>,<Raymond 4004>,daughter
+<Manuel 106>,<Alexios 1>,son
+<Manuel 106>,<Eirene 61>,son
+<Konstantinos 101>,<Romanos 3>,nephew (by marriage)
+<Konstantinos 101>,<Anonyma 108>,husband
+<Konstantinos 101>,<Romanos 4>,father
+<Eirene 25001>,<Stephanos 17003>,daughter
+<Eirene 25001>,<Anna 25001>,daughter
+<Konstantinos 102>,<Michael 101>,son
+<Konstantinos 102>,<Georgios 20253>,father
+<Melisende 4001>,<Morphia 4001>,daughter
+<Melisende 4001>,<Baldwin 52>,mother
+<Garenton 4001>,<William 4020>,brother
+<Anonymus 2238>,<Anonyma 2125>,husband
+<Anonymus 2238>,<Theodoros 101>,father-in-law
+<Anonymus 2238>,<Anonyma 2126>,father
+<Cecilia 4001>,<Bertrada 4001>,daughter
+<Cecilia 4001>,<Tancred 61>,wife
+<Cecilia 4001>,<Constance 4001>,sister
+<Cecilia 4001>,<Philippos 4001>,daughter
+<Cecilia 4001>,<Pons 4002>,wife
+<Cecilia 4001>,<Fulk 4001>,half-sister
+<Demetrios 102>,<Alde 101>,son
+<Klemes 113>,<Nikephoros 175>,spiritual father
+<Maria 17003>,<Stephanos 54>,wife
+<Maria 17003>,<Manuel 1>,niece
+<Maria 17003>,<Isaakios 103>,daughter
+<Konstantinos 105>,<Anonyma 109>,husband
+<Konstantinos 105>,<Romanos 3>,brother-in-law
+<Maria 61>,<Eirene 65>,cousin
+<Maria 61>,<Nikephoros 3>,wife (second)
+<Maria 61>,<Bagrat 101>,daughter
+<Maria 61>,<Konstantinos 62>,mother
+<Maria 61>,<Alexios 1>,mother (adoptive)
+<Maria 61>,<Isaakios 61>,cousin
+<Maria 61>,<Michael 7>,wife
+<Rainier 4002>,<Agnes 4002>,husband (first)
+<Rainier 4002>,<Anonyma 4013>,husband
+<Anonymus 325>,<Kale 102>,nephew
+<Dukak 4001>,<Belfeth 4001>,nephew
+<Andronikos 17004>,<Stephanos 17003>,son
+<Andronikos 17004>,<Anna 25001>,son
+<Andronikos 17004>,<Manuel 1>,nephew
+<Anonymus 576>,<Anonyma 191>,son
+<William 4015>,<Agnes 4002>,uncle
+<William 4015>,<Godfrey 26102>,brother
+<Ismail 102>,<Nur al-Din 4001>,son
+<Adelbero 26101>,<Conrad 26101>,son
+<Adelbero 26101>,<Henry 54>,close relation
+<Theodosios 14102>,<Anonymi 14124>,kin
+<Theodosios 14102>,<Christodoulos 101>,spiritual son
+<Theodosios 14102>,<Anonymi 14123>,brother
+<Theodosios 14102>,<Basileios 14104>,nephew
+<Michael 116>,<Anonymus 189>,brother
+<Michael 116>,<Tughrul Beg 51>,father
+<Konstantinos 110>,<Michael 4>,nephew
+<Mitze 12101>,<Anna 12102>,step-sister
+<Mitze 12101>,<Maria 12103>,mother
+<Andronikos 17001>,<Manuel 1>,nephew
+<Petros 118>,<Demetrios 127>,brother
+<Petros 118>,<Ioannes 203>,son
+<Petros 118>,<Georgios 150>,father
+<Petros 118>,<Ioannes 204>,father
+<Petros 118>,<Draga 101>,husband
+<Leon 202>,<Anonymus 15067>,son
+<Leon 202>,<Romanos 4>,son
+<Conrad 26101>,<Adelbero 26101>,father
+<Almouzes 17001>,<Laszlo 51>,son
+<Almouzes 17001>,<Stephanos 52>,brother
+<Anonyma 12125>,<Anonymus 12186>,wife
+<Anonyma 12125>,<Anonymi 12105>,mother
